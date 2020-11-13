@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-07-24"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "Professor"
