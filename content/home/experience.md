@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "RealAI"
   company_url = ""
   location = ""
-  date_start = "2018-07"
+  date_start = "2018-07-24"
   date_end = ""
   description = """
   Responsibilities include:
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Tsinghua University"
   company_url = ""
   location = ""
-  date_start = "2018-12"
-  date_end = ""
+  date_start = "2018-12-01"
+  date_end = ""2020-12-31
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
