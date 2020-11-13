@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "RealAI"
   company_url = ""
   location = "California"
-  date_start = "2017-01"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
