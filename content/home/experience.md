@@ -21,16 +21,10 @@ date_format = "Jan 2006"
   title = "R&D Director"
   company = "RealAI"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2018-07-24"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Professor"
