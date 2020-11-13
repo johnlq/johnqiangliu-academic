@@ -17,6 +17,7 @@ organizations:
 bio: My research interests include machine learning, data mining, recommender systems and AutoML.
 
 interests:
+- Machine Learning
 - Data Mining
 - Recommender Systems
 - AutoML
@@ -24,14 +25,11 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Institution of Automation, Chinese Academy of Sciences (CASIA)
+    year: 2013-2018
+  - course: BSc in Electronic Science
+    institution: Yanshan University
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
