@@ -21,6 +21,7 @@ interests:
 - Data Mining
 - Recommender Systems
 - AutoML
+- Explainable AI
 
 education:
   courses:
@@ -61,6 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Qiang Liu is a R&D Director at RealAI, a startup in Beijing, China. He leads the company’s machine learning team to work on AutoML and Explainable AI. He is also a postdoc at Tsinghua University, working with Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
