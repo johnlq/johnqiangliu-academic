@@ -22,9 +22,15 @@ date_format = "Jan 2006"
   company = "RealAI"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2018-07-24"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Professor"
