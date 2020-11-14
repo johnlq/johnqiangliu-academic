@@ -67,7 +67,15 @@ subtitle = ""
  css_class = ""
 +++
 
-* COT: Contextual operating tensor for context-aware recommender systems [[arxiv](https://arxiv.org/abs/1901.01570)]</font>
+* COT: Contextual operating tensor for context-aware recommender systems [[arxiv](https://arxiv.org/abs/1901.01570)]
+
   **Qiang Liu**, Shu Wu and Liang Wang
+  
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2015
+
+* COT: Contextual operating tensor for context-aware recommender systems [[arxiv](https://arxiv.org/abs/1901.01570)]
+
+  **Qiang Liu**, Shu Wu and Liang Wang
+  
   AAAI Conference on Artificial Intelligence (**AAAI**), 2015
 
