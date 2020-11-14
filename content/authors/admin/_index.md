@@ -64,4 +64,4 @@ user_groups:
 
 Qiang Liu is a R&D Director at RealAI, a startup in China. He leads the company’s machine learning team to work on AutoML and Explainable AI. He is also a Postdoctoral Researcher at Tsinghua University, working with Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
 
-Before that, he received his PhD degree from Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ) and Prof. [Shu Wu](http://www.shuwu.name/). During his PhD, he mainly focused on Recommender Systems and Text Mining.
+Before that, he received his PhD degree from Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ) and Prof. [Shu Wu](http://www.shuwu.name/). During his PhD, he mainly focused on Recommender Systems and Text Mining. He was also an intern at Microsoft Research Asia (MSRA), under the supervision of Dr. [XIng Xie](https://www.microsoft.com/en-us/research/people/xingx/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Fxingx).
