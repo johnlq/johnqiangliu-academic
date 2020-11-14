@@ -77,7 +77,7 @@ subtitle = ""
 
 * A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
 
-  Feng Yu*, **Qiang Liu***, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu *, **Qiang Liu** *, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2016
   
