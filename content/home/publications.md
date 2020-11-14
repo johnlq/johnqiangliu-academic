@@ -71,7 +71,7 @@ subtitle = ""
   
   <br>
 
-* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)]
+* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
 
   **Qiang Liu**, Haoli Zhang and Zhaocheng Liu
   
@@ -116,6 +116,14 @@ subtitle = ""
   Feng Yu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
   
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2017
+  
+  <br>
+
+* DeepStyle: Learning user preferences for visual recommendation [[paper](https://dl.acm.org/doi/10.1145/3077136.3080658)] [[arXiv](https://arxiv.org/abs/1911.04229)]
+
+  **Qiang Liu**, Shu Wu and Liang Wang
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2017
   
   <br>
 
