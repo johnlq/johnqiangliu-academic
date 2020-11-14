@@ -71,6 +71,22 @@ subtitle = ""
   
   <br>
 
+* MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)]
+
+  Qiang Cui, Shu Wu, **Qiang Liu**, Wen Zhong and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2020
+  
+  <br>
+
+* Multi-behavioral sequential prediction with recurrent log-bilinear model [[paper](https://ieeexplore.ieee.org/document/7837622)] [[arXiv](https://arxiv.org/abs/1608.07102)]
+
+  **Qiang Liu**, Shu Wu and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2017
+  
+  <br>
+
 * Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
 
   Shu Wu, **Qiang Liu**, Liang Wang and Tieniu Tan
