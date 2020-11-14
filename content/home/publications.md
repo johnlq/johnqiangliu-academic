@@ -94,6 +94,14 @@ subtitle = ""
   IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2020
   
   <br>
+  
+* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
+
+  Qiang Cui, **Qiang Liu**, Shu Wu, Wen Zhong, Liang Wang and Tieniu Tan
+  
+  Computers & Security (**COSE**), 2019
+  
+  <br>
 
 * Multi-behavioral sequential prediction with recurrent log-bilinear model [[paper](https://ieeexplore.ieee.org/document/7837622)] [[arXiv](https://arxiv.org/abs/1608.07102)]
 
