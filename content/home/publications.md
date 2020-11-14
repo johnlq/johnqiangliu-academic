@@ -71,6 +71,22 @@ subtitle = ""
   
   <br>
 
+* TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)]
+
+  Feng Yu, Yanqiao Zhu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2020
+  
+  <br>
+
+* TFNet: Multi-Semantic Feature Interaction for CTR Prediction [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401304)] [[arXiv](https://arxiv.org/abs/2006.15939)]
+
+  Shu Wu, Feng Yu, Xueli Yu, **Qiang Liu**, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2020
+  
+  <br>
+
 * Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
 
   **Qiang Liu**, Haoli Zhang and Zhaocheng Liu
@@ -107,7 +123,7 @@ subtitle = ""
 
   **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
   
-  ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2017
+  ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2018
   
   <br>
   
