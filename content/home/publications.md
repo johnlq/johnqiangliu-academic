@@ -71,6 +71,14 @@ subtitle = ""
   
   <br>
 
+* Disentangled Item Representation for Recommender Systems [[arXiv](https://arxiv.org/abs/2008.07178)]
+
+  Zeyu Cui, Feng Yu, Shu Wu, **Qiang Liu** and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), under review
+  
+  <br>
+
 * Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
 
   Feng Yu, Zhaocheng Liu, **Qiang Liu**, Haoli Zhang, Shu Wu and Liang Wang
