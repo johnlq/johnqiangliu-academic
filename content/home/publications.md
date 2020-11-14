@@ -69,7 +69,7 @@ subtitle = ""
 
 * Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
 
-  Shu Wu, **Qiang Liu**, Liang Wang and Tieniu Tan
+  Shu Wu, **Qiang Liu***, Liang Wang and Tieniu Tan
   
   Springer Briefs in Computer Science, 2017
   
