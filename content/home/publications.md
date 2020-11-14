@@ -241,7 +241,7 @@ subtitle = ""
 
 * A convolutional click prediction model [[paper](https://dl.acm.org/doi/10.1145/2806416.2806603)]
 
-  **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
+  **Qiang Liu** *, Feng Yu *, Shu Wu and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (**CIKM**), 2015
   
