@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Postdoc"
+  title = "Post-doctoral Researcher"
   company = "Tsinghua University"
   company_url = ""
   location = "Beijing, China"
