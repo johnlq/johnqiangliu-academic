@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+* Collaborative prediction for multi-entity interaction with hierarchical representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
+
+  **Qiang Liu**, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (**CIKM**), 2015
+
 * A convolutional click prediction model [[paper](https://dl.acm.org/doi/10.1145/2806416.2806603)]
 
   **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
