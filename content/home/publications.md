@@ -67,13 +67,13 @@ subtitle = ""
  css_class = ""
 +++
 
-* COT: Contextual operating tensor for context-aware recommender systems [[arxiv](https://arxiv.org/abs/1901.01570)]
+* A convolutional click prediction model [[PDF](https://arxiv.org/abs/1901.01570)]
 
-  **Qiang Liu**, Shu Wu and Liang Wang
+  **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
   
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2015
+  ACM International Conference on Information and Knowledge Management	 (**CIKM**), 2015
 
-* COT: Contextual operating tensor for context-aware recommender systems [[arxiv](https://arxiv.org/abs/1901.01570)]
+* COT: Contextual operating tensor for context-aware recommender systems [[PDF](papers/AAAI15COT.pdf)]
 
   **Qiang Liu**, Shu Wu and Liang Wang
   
