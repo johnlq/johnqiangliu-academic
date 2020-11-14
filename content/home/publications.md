@@ -67,6 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
+* Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
+
+  Shu Wu, **Qiang Liu**, Liang Wang and Tieniu Tan
+  
+  Springer Briefs in Computer Science, 2017
+  
+  <br>
+
 * Collaborative prediction for multi-entity interaction with hierarchical representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
 
   **Qiang Liu**, Shu Wu and Liang Wang
