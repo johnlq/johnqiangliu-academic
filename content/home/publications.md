@@ -71,6 +71,22 @@ subtitle = ""
   
   <br>
 
+* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)]
+
+  **Qiang Liu**, Haoli Zhang and Zhaocheng Liu
+  
+  arXiv preprint arXiv:2007.09036	
+  
+  <br>
+
+* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, **Qiang Liu**, Shu Wu and Liang Wang
+  
+  ICML Workshop on Graph Representation Learning and Beyond, 2020
+  
+  <br>
+
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)]
 
   Qiang Cui, Shu Wu, **Qiang Liu**, Wen Zhong and Liang Wang
