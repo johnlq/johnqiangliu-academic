@@ -71,6 +71,14 @@ subtitle = ""
   
   <br>
 
+* Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
+
+  Feng Yu, Zhaocheng Liu, **Qiang Liu**, Haoli Zhang, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (**CIKM**), 2020
+  
+  <br>
+
 * TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)]
 
   Feng Yu, Yanqiao Zhu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
@@ -108,6 +116,14 @@ subtitle = ""
   Qiang Cui, Shu Wu, **Qiang Liu**, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2020
+  
+  <br>
+
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
+
+  Jingyi Wang, **Qiang Liu**, Zhaocheng Liu and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (**CIKM**), 2019
   
   <br>
   
