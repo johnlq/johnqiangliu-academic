@@ -67,9 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
-
-* <font size=3><font color=red>[NeurIPS19]</font> "Transductive Zero-Shot Learning with Visual Structure Constraint." Ziyu Wan, Dongdong Chen, **Yan Li**, Junge Zhang, Yizhou Yu and Jing Liao. [[arxiv](https://arxiv.org/abs/1901.01570)]</font>
+* "COT: Contextual operating tensor for context-aware recommender systems." **Qiang Liu**, Shu Wu and Liang Wang. [[arxiv](https://arxiv.org/abs/1901.01570)]</font>
 
