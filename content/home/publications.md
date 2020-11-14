@@ -69,9 +69,25 @@ subtitle = ""
 
 * Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
 
-  Shu Wu, **Qiang Liu***, Liang Wang and Tieniu Tan
+  Shu Wu, **Qiang Liu**, Liang Wang and Tieniu Tan
   
   Springer Briefs in Computer Science, 2017
+  
+  <br>
+
+* A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
+
+  Feng Yu*, **Qiang Liu***, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2016
+  
+  <br>
+
+* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
+
+  **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2016
   
   <br>
 
