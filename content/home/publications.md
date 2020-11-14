@@ -102,6 +102,14 @@ subtitle = ""
   Computers & Security (**COSE**), 2019
   
   <br>
+
+* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
+
+  **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2017
+  
+  <br>
   
 * A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
 
