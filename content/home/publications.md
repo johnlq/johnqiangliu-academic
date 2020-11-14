@@ -67,6 +67,10 @@ subtitle = ""
  css_class = ""
 +++
 
+(* Equal Contribution, # Corresponding Author)
+  
+  <br>
+
 * Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
 
   Shu Wu, **Qiang Liu**, Liang Wang and Tieniu Tan
