@@ -87,9 +87,33 @@ subtitle = ""
   
   <br>
 
+* Contextual operation for recommender systems [[paper](https://ieeexplore.ieee.org/document/7464889)]
+
+  Shu Wu *, **Qiang Liu** *, Liang Wang and Tieniu Tan
+  
+  IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2016
+  
+  <br>
+
 * Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
 
   **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2016
+  
+  <br>
+
+* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)]
+
+   Shu Wu, **Qiang Liu**, Yong Liu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2016
+  
+  <br>
+
+* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
+
+  Shu Wu, **Qiang Liu**, Ping Bai, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (**AAAI**), 2016
   
