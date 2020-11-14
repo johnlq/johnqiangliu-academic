@@ -35,4 +35,22 @@ date_format = "Jan 2006"
   date_end = ""
   description = """"""
 
+[[experience]]
+  title = "Algorithm Intern"
+  company = "Aibee"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2018-02-01"
+  date_end = "2018-05-15"
+  description = """"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Microsoft Research Asia (MSRA)"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2016-05-01"
+  date_end = "2016-10-15"
+  description = """"""
+
 +++
