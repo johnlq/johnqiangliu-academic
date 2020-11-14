@@ -97,9 +97,17 @@ subtitle = ""
   
 * Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
 
-  Qiang Cui, **Qiang Liu**, Shu Wu, Wen Zhong, Liang Wang and Tieniu Tan
+  Feng Yu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
   
   Computers & Security (**COSE**), 2019
+  
+  <br>
+  
+* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
+
+  Feng Yu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2017
   
   <br>
 
