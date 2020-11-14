@@ -79,6 +79,14 @@ subtitle = ""
   
   <br>
 
+* Context-aware sequential recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)] [[arXiv](https://arxiv.org/abs/1609.05787)]
+
+  **Qiang Liu**, Shu Wu, Diyi Wang, Zhaokang Li and Liang Wang
+  
+  IEEE International Conference on Data Mining (**ICDM**), 2016
+  
+  <br>
+
 * A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
 
   Feng Yu *, **Qiang Liu** *, Shu Wu, Liang Wang and Tieniu Tan
@@ -103,7 +111,7 @@ subtitle = ""
   
   <br>
 
-* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)]
+* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
 
    Shu Wu, **Qiang Liu**, Yong Liu, Liang Wang and Tieniu Tan
   
