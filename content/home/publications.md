@@ -71,7 +71,7 @@ subtitle = ""
   
   <br>
   
-  Preprints
+  &nbspPreprints
   
   <br>
 
@@ -88,6 +88,14 @@ subtitle = ""
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), under review
+  
+  <br>
+
+* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
+
+  <strong>Qiang Liu</strong>, Haoli Zhang and Zhaocheng Liu
+  
+  arXiv preprint arXiv:2007.09036	
   
   <br>
   
@@ -116,14 +124,6 @@ subtitle = ""
   Shu Wu<sup>\*</sup>, Feng Yu<sup>\*</sup>, Xueli Yu, <strong>Qiang Liu</strong>, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2020
-  
-  <br>
-
-* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
-
-  <strong>Qiang Liu</strong>, Haoli Zhang and Zhaocheng Liu
-  
-  arXiv preprint arXiv:2007.09036	
   
   <br>
 
