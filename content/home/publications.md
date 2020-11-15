@@ -81,7 +81,7 @@ subtitle = ""
 
 * Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
 
-  Feng Yu, Zhaocheng Liu, **Qiang Liu**, Haoli Zhang, Shu Wu and Liang Wang
+  Feng Yu, Zhaocheng Liu, **Qiang Liu**, Haoli Zhang, Shu Wu # and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (**CIKM**), 2020
   
@@ -89,7 +89,7 @@ subtitle = ""
 
 * TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)]
 
-  Feng Yu, Yanqiao Zhu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu *, Yanqiao Zhu *, **Qiang Liu**, Shu Wu #, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2020
   
@@ -97,7 +97,7 @@ subtitle = ""
 
 * TFNet: Multi-Semantic Feature Interaction for CTR Prediction [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401304)] [[arXiv](https://arxiv.org/abs/2006.15939)]
 
-  Shu Wu, Feng Yu, Xueli Yu, **Qiang Liu**, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
+  Shu Wu *, Feng Yu *, Xueli Yu, **Qiang Liu**, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (**SIGIR**), 2020
   
@@ -113,7 +113,7 @@ subtitle = ""
 
 * Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)]
 
-  Yanqiao Zhu, Yichen Xu, Feng Yu, **Qiang Liu**, Shu Wu and Liang Wang
+  Yanqiao Zhu *, Yichen Xu *, Feng Yu, **Qiang Liu**, Shu Wu and Liang Wang
   
   ICML Workshop on Graph Representation Learning and Beyond, 2020
   
