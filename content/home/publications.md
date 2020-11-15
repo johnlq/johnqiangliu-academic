@@ -70,6 +70,10 @@ subtitle = ""
 (* Equal Contribution, # Corresponding Author)
   
   <br>
+  
+  Preprints
+  
+  <br>
 
 * DNN2LR: Automatic Feature Crossing for Real-world Tabular Data [[arXiv](https://arxiv.org/abs/2008.09775)]
 
@@ -84,6 +88,10 @@ subtitle = ""
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), under review
+  
+  <br>
+  
+  2020
   
   <br>
 
@@ -134,6 +142,10 @@ subtitle = ""
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2020
   
   <br>
+  
+  2019
+  
+  <br>
 
 * Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
 
@@ -150,12 +162,20 @@ subtitle = ""
   Computers & Security (<strong>COSE</strong>), 2019
   
   <br>
+  
+  2018
+  
+  <br>
 
 * Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu<sup>#</sup> and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
+  
+  <br>
+  
+  2017
   
   <br>
   
@@ -188,6 +208,10 @@ subtitle = ""
   Shu Wu, <strong>Qiang Liu</strong>, Liang Wang and Tieniu Tan
   
   Springer Briefs in Computer Science, 2017
+  
+  <br>
+  
+  2016
   
   <br>
 
