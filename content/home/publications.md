@@ -119,9 +119,9 @@ subtitle = ""
   
   <br>
 
-* MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)]
+* MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
-  Qiang Cui, Shu Wu, **Qiang Liu**, Wen Zhong and Liang Wang
+  Qiang Cui, Shu Wu #, **Qiang Liu**, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2020
   
@@ -129,7 +129,7 @@ subtitle = ""
 
 * Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
 
-  Jingyi Wang, **Qiang Liu**, Zhaocheng Liu and Shu Wu
+  Jingyi Wang, **Qiang Liu**, Zhaocheng Liu and Shu Wu #
   
   ACM International Conference on Information and Knowledge Management (**CIKM**), 2019
   
@@ -137,7 +137,7 @@ subtitle = ""
   
 * Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
 
-  Feng Yu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, **Qiang Liu**, Shu Wu, Liang Wang and Tieniu Tan #
   
   Computers & Security (**COSE**), 2019
   
@@ -145,7 +145,7 @@ subtitle = ""
 
 * Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
-  **Qiang Liu**, Feng Yu, Shu Wu and Liang Wang
+  **Qiang Liu**, Feng Yu, Shu Wu # and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), 2018
   
@@ -191,7 +191,7 @@ subtitle = ""
   
   <br>
 
-* A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
+* A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] [[code](https://github.com/johnlq/DREAM)]
 
   Feng Yu *, **Qiang Liu** *, Shu Wu, Liang Wang and Tieniu Tan
   
