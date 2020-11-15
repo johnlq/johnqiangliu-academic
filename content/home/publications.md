@@ -97,7 +97,7 @@ subtitle = ""
 
 * TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)]
 
-  Feng Yu<sup>*</sup>, Yanqiao Zhu<sup>*</sup>, <strong>Qiang Liu</strong>, Shu Wu<sup>#</sup>, Liang Wang and Tieniu Tan
+  Feng Yu<sup>\*</sup>, Yanqiao Zhu<sup>\*</sup>, <strong>Qiang Liu</strong>, Shu Wu<sup>#</sup>, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2020
   
@@ -105,7 +105,7 @@ subtitle = ""
 
 * TFNet: Multi-Semantic Feature Interaction for CTR Prediction [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401304)] [[arXiv](https://arxiv.org/abs/2006.15939)]
 
-  Shu Wu<sup>*</sup>, Feng Yu<sup>*</sup>, Xueli Yu, <strong>Qiang Liu</strong>, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
+  Shu Wu<sup>\*</sup>, Feng Yu<sup>\*</sup>, Xueli Yu, <strong>Qiang Liu</strong>, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2020
   
@@ -121,7 +121,7 @@ subtitle = ""
 
 * Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)]
 
-  Yanqiao Zhu<sup>*</sup>, Yichen Xu<sup>*</sup>, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Yanqiao Zhu<sup>\*</sup>, Yichen Xu<sup>\*</sup>, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   ICML Workshop on Graph Representation Learning and Beyond, 2020
   
@@ -201,7 +201,7 @@ subtitle = ""
 
 * A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] [[code](https://github.com/johnlq/DREAM)]
 
-  Feng Yu<sup>*</sup>, <strong>Qiang Liu</strong><sup>*</sup>, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu<sup>\*</sup>, <strong>Qiang Liu</strong><sup>\*</sup>, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2016
   
@@ -209,7 +209,7 @@ subtitle = ""
 
 * Contextual operation for recommender systems [[paper](https://ieeexplore.ieee.org/document/7464889)]
 
-  Shu Wu<sup>*</sup>, <strong>Qiang Liu</strong><sup>*</sup>, Liang Wang and Tieniu Tan
+  Shu Wu<sup>\*</sup>, <strong>Qiang Liu</strong><sup>\*</sup>, Liang Wang and Tieniu Tan
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2016
   
@@ -249,7 +249,7 @@ subtitle = ""
 
 * A convolutional click prediction model [[paper](https://dl.acm.org/doi/10.1145/2806416.2806603)]
 
-  <strong>Qiang Liu</strong><sup>*</sup>, Feng Yu<sup>*</sup>, Shu Wu and Liang Wang
+  <strong>Qiang Liu</strong><sup>\*</sup>, Feng Yu<sup>\*</sup>, Shu Wu and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2015
   
@@ -260,4 +260,5 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015
-
+ 
+ 
