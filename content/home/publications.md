@@ -238,6 +238,10 @@ subtitle = ""
   AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
   
   <br>
+  
+  2015
+  
+  <br>
 
 * Collaborative prediction for multi-entity interaction with hierarchical representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
 
