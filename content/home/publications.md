@@ -111,7 +111,7 @@ subtitle = ""
   
   <br>
 
-* TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)]
+* TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)] [[code](https://github.com/johnlq/TAGNN)]
 
   Feng Yu<sup>\*</sup>, Yanqiao Zhu<sup>\*</sup>, <strong>Qiang Liu</strong>, Shu Wu<sup>#</sup>, Liang Wang and Tieniu Tan
   
@@ -127,7 +127,7 @@ subtitle = ""
   
   <br>
 
-* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)]
+* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
 
   Yanqiao Zhu<sup>\*</sup>, Yichen Xu<sup>\*</sup>, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
