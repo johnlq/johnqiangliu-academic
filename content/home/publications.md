@@ -73,7 +73,7 @@ subtitle = ""
 
 * DNN2LR: Automatic Feature Crossing for Real-world Tabular Data [[arXiv](https://arxiv.org/abs/2008.09775)]
 
-  Zhaocheng Liu*, **Qiang Liu***#, Haoli Zhang, Yuntian Chen and Jun Zhu
+  Zhaocheng Liu*, **Qiang Liu**<>*#<>, Haoli Zhang, Yuntian Chen and Jun Zhu
   
   IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), under review
   
