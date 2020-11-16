@@ -22,6 +22,7 @@ interests:
 - Recommender Systems
 - AutoML
 - Explainable AI
+- Text Mining
 
 education:
   courses:
