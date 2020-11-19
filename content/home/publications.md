@@ -90,22 +90,6 @@ subtitle = ""
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), under review
   
   <br>
-
-* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
-
-  <strong>Qiang Liu</strong>, Haoli Zhang and Zhaocheng Liu
-  
-  arXiv preprint arXiv:2007.09036
-  
-  <br>
-
-* An Empirical Study on Feature Discretization [[arXiv](https://arxiv.org/abs/2004.12602)]
-
-  <strong>Qiang Liu</strong>, Zhaocheng Liu and Haoli Zhang
-  
-  arXiv preprint arXiv:2004.12602
-  
-  <br>
   
   2020
   
