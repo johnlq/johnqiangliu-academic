@@ -119,14 +119,6 @@ subtitle = ""
   
   <br>
 
-* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
-
-  <strong>Qiang Liu</strong>, Haoli Zhang and Zhaocheng Liu
-  
-  arXiv preprint arXiv:2007.09036
-  
-  <br>
-
 * Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
 
   Yanqiao Zhu<sup>\*</sup>, Yichen Xu<sup>\*</sup>, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
