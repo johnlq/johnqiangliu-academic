@@ -135,14 +135,6 @@ subtitle = ""
   
   <br>
 
-* An Empirical Study on Feature Discretization [[arXiv](https://arxiv.org/abs/2004.12602)]
-
-  <strong>Qiang Liu</strong>, Zhaocheng Liu and Haoli Zhang
-  
-  arXiv preprint arXiv:2004.12602
-  
-  <br>
-
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
   Qiang Cui, Shu Wu<sup>#</sup>, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
