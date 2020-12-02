@@ -127,14 +127,6 @@ subtitle = ""
   
   <br>
 
-* Simplification of Graph Convolutional Networks: A Matrix Factorization-based Perspective [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
-
-  <strong>Qiang Liu</strong>, Haoli Zhang and Zhaocheng Liu
-  
-  arXiv preprint arXiv:2007.09036
-  
-  <br>
-
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
   Qiang Cui, Shu Wu<sup>#</sup>, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
