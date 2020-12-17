@@ -32,25 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2018-12-01"
-  date_end = ""
-  description = """"""
-
-[[experience]]
-  title = "Research Assistant"
-  company = "Institution of Automation, Chinese Academy of Sciences (CASIA)"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "2014-07-01"
-  date_end = "2018-06-15"
-  description = """"""
-
-[[experience]]
-  title = "Algorithm Intern"
-  company = "Aibee"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "2018-02-01"
-  date_end = "2018-05-15"
+  date_end = "2020-12-31"
   description = """"""
 
 [[experience]]
