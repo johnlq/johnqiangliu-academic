@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp &nbsp &nbsp &nbsp Preprints
+  2021
   
   <br>
 
@@ -77,7 +77,7 @@ subtitle = ""
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), under review
+  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), accepted
   
   <br>
   
