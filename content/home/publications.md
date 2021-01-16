@@ -69,15 +69,19 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2021
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspInterprerability and Knowledge Discovery
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
 
-  Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
+  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
   
-  The Web Conference (<strong>WWW</strong>), 2021
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2019
+  
+  <br>
+  
+  Graph Neural Networks
   
   <br>
 
@@ -89,15 +93,87 @@ subtitle = ""
   
   <br>
 
+* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ICML Workshop on Graph Representation Learning and Beyond, 2020
+  
+  <br>
+  
+  Spatio-Temporal Mining
+  
+  <br>
+
+* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation
+
+  Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
+  
+  The Web Conference (<strong>WWW</strong>), 2021
+  
+  <br>
+
+* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
+
+  <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+
+* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
+
+  Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+  
+  Text Mining
+  
+  <br>
+  
+* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  Computers & Security (<strong>COSE</strong>), 2019
+  
+  <br>
+
+* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
+
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
+  
+  <br>
+  
+* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2017
+  
+  <br>
+
+* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
+
+   Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+  
+  Recommender Systems
+  
+  <br>
+
 * Disentangled Item Representation for Recommender Systems [[arXiv](https://arxiv.org/abs/2008.07178)]
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), accepted
-  
-  <br>
-  
-  2020
   
   <br>
 
@@ -125,63 +201,11 @@ subtitle = ""
   
   <br>
 
-* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
-
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ICML Workshop on Graph Representation Learning and Beyond, 2020
-  
-  <br>
-
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2020
-  
-  <br>
-  
-  2019
-  
-  <br>
-
-* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
-
-  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2019
-  
-  <br>
-  
-* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security (<strong>COSE</strong>), 2019
-  
-  <br>
-  
-  2018
-  
-  <br>
-
-* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
-
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
-  
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
-  
-  <br>
-  
-  2017
-  
-  <br>
-  
-* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2017
   
   <br>
 
@@ -208,10 +232,6 @@ subtitle = ""
   Springer Briefs in Computer Science, 2017
   
   <br>
-  
-  2016
-  
-  <br>
 
 * Context-aware sequential recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)] [[arXiv](https://arxiv.org/abs/1609.05787)]
 
@@ -234,34 +254,6 @@ subtitle = ""
   Shu Wu, <strong>Qiang Liu</strong>, Liang Wang and Tieniu Tan
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2016
-  
-  <br>
-
-* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
-
-  <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
-  
-  <br>
-
-* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
-
-   Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
-  
-  <br>
-
-* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
-
-  Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
-  
-  <br>
-  
-  2015
   
   <br>
 
