@@ -73,9 +73,9 @@ subtitle = ""
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation
+* STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2010.14945)]
 
- Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
+  Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
   
   The Web Conference (<strong>WWW</strong>), 2021
   
