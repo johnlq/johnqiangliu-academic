@@ -69,11 +69,11 @@ subtitle = ""
   
   <br>
   
-  2021
+  &nbsp&nbsp&nbsp&nbsp2021
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2010.14945)]
+* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation
 
   Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
   
