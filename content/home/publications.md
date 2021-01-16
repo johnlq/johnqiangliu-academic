@@ -69,7 +69,23 @@ subtitle = ""
   
   <br>
   
-  2021
+  &nbsp&nbsp2021
+  
+  <br>
+
+* STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation
+
+ Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
+  
+  The Web Conference (<strong>WWW</strong>), 2021
+  
+  <br>
+
+* Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  The Web Conference (<strong>WWW</strong>), 2021
   
   <br>
 
