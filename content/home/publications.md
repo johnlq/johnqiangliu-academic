@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspInterprerability and Knowledge Discovery
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Interprerability and Knowledge Discovery</strong>
   
   <br>
 
@@ -81,7 +81,7 @@ subtitle = ""
   
   <br>
   
-  Graph Neural Networks
+  <strong>Graph Neural Networks</strong>
   
   <br>
 
@@ -101,7 +101,7 @@ subtitle = ""
   
   <br>
   
-  Spatio-Temporal Mining
+  <strong>Spatio-Temporal Mining</strong>
   
   <br>
 
@@ -129,7 +129,7 @@ subtitle = ""
   
   <br>
   
-  Text Mining
+  <strong>Text Mining</strong>
   
   <br>
   
@@ -165,7 +165,7 @@ subtitle = ""
   
   <br>
   
-  Recommender Systems
+  <strong>Recommender Systems</strong>
   
   <br>
 
@@ -222,14 +222,6 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2017
-  
-  <br>
-
-* Context-Aware Collaborative Prediction [[paper](https://link.springer.com/book/10.1007/978-981-10-5373-3)]
-
-  Shu Wu, <strong>Qiang Liu</strong>, Liang Wang and Tieniu Tan
-  
-  Springer Briefs in Computer Science, 2017
   
   <br>
 
