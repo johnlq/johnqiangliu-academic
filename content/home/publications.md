@@ -81,26 +81,6 @@ subtitle = ""
   
   <br>
   
-  <strong>Graph Neural Networks</strong>
-  
-  <br>
-
-* Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
-
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  The Web Conference (<strong>WWW</strong>), 2021
-  
-  <br>
-
-* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
-
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ICML Workshop on Graph Representation Learning and Beyond, 2020
-  
-  <br>
-  
   <strong>Spatio-Temporal Mining</strong>
   
   <br>
@@ -162,6 +142,26 @@ subtitle = ""
    Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+  
+  <strong>Graph Neural Networks</strong>
+  
+  <br>
+
+* Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  The Web Conference (<strong>WWW</strong>), 2021
+  
+  <br>
+
+* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ICML Workshop on Graph Representation Learning and Beyond, 2020
   
   <br>
   
