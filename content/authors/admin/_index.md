@@ -6,11 +6,11 @@ title: Qiang Liu
 superuser: true
 
 # Role/position
-role: R&D Director
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: RealAI
+- name: Institute of Automation, Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,8 +20,6 @@ interests:
 - Machine Learning
 - Data Mining
 - Recommender Systems
-- AutoML
-- Explainable AI
 - Text Mining
 
 education:
@@ -63,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-Qiang Liu is a Co-Founder and R&D Director at RealAI, a startup in China. He leads the company’s machine learning team to work on AutoML and Explainable AI, for dilivering products on FinTech. He is also a Postdoctoral Researcher at Tsinghua University, working with Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml).
+I’m currently an Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). I mainly focus on mining knowledge from data and text, as well as incorporating knowledge into deep models.
 
-Before that, he received his PhD degree from Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ) and Prof. [Shu Wu](http://www.shuwu.name/). During his PhD, he mainly focused on Recommender Systems and Text Mining.
+Before that, I was a Postdoctoral Researcher at Tsinghua University. I was also a R&D Director at RealAI, where I led the machine learning team to work on AutoML and Explainable AI, for delivering products on FinTech. I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
