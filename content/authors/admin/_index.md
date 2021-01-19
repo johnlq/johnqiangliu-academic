@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name: Institute of Automation<br>Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Institution of Automation<br/>Chinese Academy of Sciences (CASIA)
+    institution: Institution of Automation, Chinese Academy of Sciences (CASIA)
     year: 2013-2018
   - course: BSc in Electronic Science
     institution: Yanshan University
