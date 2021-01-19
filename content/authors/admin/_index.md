@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I’m currently an Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). I mainly focus on mining knowledge from data and text, as well as incorporating knowledge into deep models.
+I’m an Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on mining knowledge from data and text, as well as incorporating knowledge into deep models.
 
 Before that, I was a Postdoctoral Researcher at Tsinghua University. I was also a R&D Director at RealAI, where I led the machine learning team to work on AutoML and Explainable AI, for delivering products on FinTech. I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
