@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Interprerability and Knowledge Discovery</strong>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Interpretability and Knowledge Discovery</strong>
   
   <br>
 
