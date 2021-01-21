@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, &nbsp&nbsp&nbsp&nbsp Chinese Academy of Sciences
+- name: Institute of Automation, &nbsp&nbsp Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
