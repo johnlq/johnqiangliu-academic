@@ -87,7 +87,7 @@ subtitle = ""
 
 * Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
 
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>#, Shu Wu and Liang Wang
   
   The Web Conference (<strong>WWW</strong>), 2021
   
@@ -215,7 +215,7 @@ subtitle = ""
 
 * Contextual operation for recommender systems [[paper](https://ieeexplore.ieee.org/document/7464889)]
 
-  Shu Wu, <strong>Qiang Liu</strong>, Liang Wang and Tieniu Tan
+  Shu Wu*, <strong>Qiang Liu</strong>*, Liang Wang and Tieniu Tan
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2016
   
