@@ -69,6 +69,10 @@ subtitle = ""
   
   <br>
   
+  (*:Equal Contribution, #:Corresponding Author)
+  
+  <br>
+  
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Interpretability and Knowledge Discovery</strong>
   
   <br>
