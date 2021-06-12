@@ -77,7 +77,7 @@ subtitle = ""
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2102.04095)]
+* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
   Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
   
@@ -207,7 +207,7 @@ subtitle = ""
 
 * A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] [[code](https://github.com/johnlq/DREAM)]
 
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu*, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2016
   
