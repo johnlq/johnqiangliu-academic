@@ -73,19 +73,15 @@ subtitle = ""
   
   <br>
   
-  <strong>Spatio-Temporal Mining</strong>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>2021</strong>
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation
+* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2102.04095)]
 
   Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
   
   The Web Conference (<strong>WWW</strong>), 2021
-  
-  <br>
-  
-  <strong>Text Mining</strong>
   
   <br>
 
@@ -101,7 +97,7 @@ subtitle = ""
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), accepted
+  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2021
   
   <br>
   
