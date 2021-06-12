@@ -73,26 +73,6 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Interpretability and Knowledge Discovery</strong>
-  
-  <br>
-
-* Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
-
-  Feng Yu, Zhaocheng Liu, <strong>Qiang Liu</strong>, Haoli Zhang, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2020
-  
-  <br>
-
-* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
-
-  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2019
-  
-  <br>
-  
   <strong>Spatio-Temporal Mining</strong>
   
   <br>
@@ -108,26 +88,6 @@ subtitle = ""
   <strong>Text Mining</strong>
   
   <br>
-  
-* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security (<strong>COSE</strong>), 2019
-  
-  <br>
-
-* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
-
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
-  
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
-  
-  <br>
-  
-  <strong>Graph Neural Networks</strong>
-  
-  <br>
 
 * Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
 
@@ -137,21 +97,23 @@ subtitle = ""
   
   <br>
 
-* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
-
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ICML Workshop on Graph Representation Learning and Beyond, 2020
-  
-  <br>
-  
-  <br>
-
 * Disentangled Item Representation for Recommender Systems [[arXiv](https://arxiv.org/abs/2008.07178)]
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), accepted
+  
+  <br>
+  
+  <strong>2018-2020</strong>
+  
+  <br>
+
+* Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
+
+  Feng Yu, Zhaocheng Liu, <strong>Qiang Liu</strong>, Haoli Zhang, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2020
   
   <br>
 
@@ -171,6 +133,14 @@ subtitle = ""
   
   <br>
 
+* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ICML Workshop on Graph Representation Learning and Beyond, 2020
+  
+  <br>
+
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
@@ -178,8 +148,34 @@ subtitle = ""
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2020
   
   <br>
+
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
+
+  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
   
-  <strong>2015-2018</strong>
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2019
+  
+  <br>
+  
+* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  Computers & Security (<strong>COSE</strong>), 2019
+  
+  <br>
+
+* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
+
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
+  
+  <br>
+  
+  <strong>2015-2017</strong>
+  
+  <br>
   
 * A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
 
