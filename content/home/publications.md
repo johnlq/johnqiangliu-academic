@@ -104,22 +104,6 @@ subtitle = ""
   The Web Conference (<strong>WWW</strong>), 2021
   
   <br>
-
-* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
-
-  <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
-  
-  <br>
-
-* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
-
-  Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
-  
-  <br>
   
   <strong>Text Mining</strong>
   
@@ -138,22 +122,6 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
-  
-  <br>
-  
-* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2017
-  
-  <br>
-
-* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
-
-   Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
   
   <br>
   
@@ -176,8 +144,6 @@ subtitle = ""
   ICML Workshop on Graph Representation Learning and Beyond, 2020
   
   <br>
-  
-  <strong>Recommender Systems</strong>
   
   <br>
 
@@ -210,6 +176,16 @@ subtitle = ""
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2020
+  
+  <br>
+  
+  <strong>2015-2018</strong>
+  
+* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2017
   
   <br>
 
@@ -250,6 +226,30 @@ subtitle = ""
   Shu Wu, <strong>Qiang Liu</strong>, Liang Wang and Tieniu Tan
   
   IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2016
+  
+  <br>
+
+* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
+
+  <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+
+* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
+
+  Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  
+  <br>
+
+* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
+
+   Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
+  
+  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
   
   <br>
 
