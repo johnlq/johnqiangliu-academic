@@ -79,7 +79,7 @@ subtitle = ""
 
 * STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
-  Yingtao Luo, <strong>Qiang Liu</strong> and Zhaocheng Liu
+  Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
   
   The Web Conference (<strong>WWW</strong>), 2021
   
@@ -87,7 +87,7 @@ subtitle = ""
 
 * Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
 
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>#, Shu Wu and Liang Wang
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (<strong>WWW</strong>), 2021
   
