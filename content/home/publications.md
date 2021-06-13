@@ -77,7 +77,7 @@ subtitle = ""
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
+* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
   Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
   
@@ -85,7 +85,7 @@ subtitle = ""
   
   <br>
 
-* Graph Contrastive Learning with Adaptive Augmentation [[arXiv](https://arxiv.org/abs/2010.14945)]
+* Graph Contrastive Learning with Adaptive Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449802)] [[arXiv](https://arxiv.org/abs/2010.14945)] [[code](https://github.com/CRIPAC-DIG/GCA)]
 
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -93,7 +93,7 @@ subtitle = ""
   
   <br>
 
-* Disentangled Item Representation for Recommender Systems [[arXiv](https://arxiv.org/abs/2008.07178)]
+* Disentangled Item Representation for Recommender Systems [[paper](https://dl.acm.org/doi/abs/10.1145/3445811)] [[arXiv](https://arxiv.org/abs/2008.07178)]
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
