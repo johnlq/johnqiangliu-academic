@@ -101,7 +101,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>2021</strong>
+  <strong>2021</strong>
   
   <br>
 
