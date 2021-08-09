@@ -77,31 +77,21 @@ subtitle = ""
   
   <br>
 
-* Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE) [[arXiv](https://arxiv.org/abs/2106.11927)]
-
-  Yuntian Chen, Yingtao Luo, <strong>Qiang Liu</strong>, Hao Xu and Dongxiao Zhang
-  
-  <br>
-
-* KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients [[arXiv](https://arxiv.org/abs/2106.01078)]
-
-  Yingtao Luo, <strong>Qiang Liu</strong>, Yuntian Chen, Wenbo Hu and Jun Zhu
-  
-  <br>
-
 * Deep Graph Structure Learning for Robust Representations: A Survey [[arXiv](https://arxiv.org/abs/2103.03036)]
 
   Yanqiao Zhu, Weizhi Xu, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   <br>
+  
+  <strong>2021</strong>
+  
+  <br>
 
-* DNN2LR: Automatic Feature Crossing for Credit Scoring [[arXiv](https://arxiv.org/abs/2102.12036)]
+* Mining Cross Features for Financial Credit Risk Assessment [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
   
-  <br>
-  
-  <strong>2021</strong>
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
   
   <br>
 
