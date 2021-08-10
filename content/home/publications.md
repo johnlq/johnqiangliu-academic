@@ -95,6 +95,30 @@ subtitle = ""
   
   <br>
 
+* Deep Active Learning for Text Classification with Diverse Interpretations
+
+  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  
+  <br>
+
+* Relation-aware Heterogeneous Graph for User Profiling
+
+  Qilong Yan, Yufeng Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  
+  <br>
+
+* Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/2101.03654)]
+
+  Yichen Xu, Yanqiao Zhu, Feng Yu, <strong>Qiang Liu</strong> and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  
+  <br>
+
 * Mining Latent Structures for Multimedia Recommendation [[arXiv](https://arxiv.org/abs/2104.09036)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
