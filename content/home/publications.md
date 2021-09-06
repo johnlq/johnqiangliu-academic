@@ -127,6 +127,14 @@ subtitle = ""
   
   <br>
 
+* Structure-Aware Hard Negative Mining for Heterogeneous Graph Contrastive Learning [[arXiv](https://arxiv.org/abs/2108.13886)]
+
+  Yanqiao Zhu, Yichen Xu, Hejie Cui, Carl Yang, <strong>Qiang Liu</strong> and Shu Wu
+  
+  KDD Workshop on Deep Learning on Graphs: Method and Applications (DLG@KDD), 2021
+  
+  <br>
+
 * STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
   Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
@@ -183,7 +191,7 @@ subtitle = ""
 
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  ICML Workshop on Graph Representation Learning and Beyond, 2020
+  ICML Workshop on Graph Representation Learning and Beyond (GRL+@ICML), 2020
   
   <br>
 
@@ -305,7 +313,7 @@ subtitle = ""
 
 * A convolutional click prediction model [[paper](https://dl.acm.org/doi/10.1145/2806416.2806603)]
 
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  <strong>Qiang Liu</strong>*, Feng Yu*, Shu Wu and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2015
   
