@@ -77,6 +77,12 @@ subtitle = ""
   
   <br>
 
+* An Empirical Study of Graph Contrastive Learning [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
+
+  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
+  
+  <br>
+
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE) [[arXiv](https://arxiv.org/abs/2106.11927)]
 
   Yuntian Chen, Yingtao Luo, <strong>Qiang Liu</strong>, Hao Xu and Dongxiao Zhang
