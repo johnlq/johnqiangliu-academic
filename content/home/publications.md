@@ -77,43 +77,21 @@ subtitle = ""
   
   <br>
 
-* An Empirical Study of Graph Contrastive Learning [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
-
-  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
-  
-  <br>
-
-* Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE) [[arXiv](https://arxiv.org/abs/2106.11927)]
-
-  Yuntian Chen, Yingtao Luo, <strong>Qiang Liu</strong>, Hao Xu and Dongxiao Zhang
-  
-  <br>
-
-* KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients [[arXiv](https://arxiv.org/abs/2106.01078)]
-
-  Yingtao Luo, <strong>Qiang Liu</strong>, Yuntian Chen, Wenbo Hu and Jun Zhu
-  
-  <br>
-
-* DyGCN: Dynamic Graph Embedding with Graph Convolutional Network [[arXiv](https://arxiv.org/abs/2104.02962)]
-
-  Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
-  
-  <br>
-
 * Deep Graph Structure Learning for Robust Representations: A Survey [[arXiv](https://arxiv.org/abs/2103.03036)]
 
   Yanqiao Zhu, Weizhi Xu, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   <br>
-
-* When Contrastive Learning Meets Active Learning: A Novel Graph Active Learning Paradigm with Self-Supervision [[arXiv](https://arxiv.org/abs/2010.16091)]
-
-  Yanqiao Zhu, Weizhi Xu, <strong>Qiang Liu</strong> and Shu Wu
-  
-  <br>
   
   <strong>2021</strong>
+  
+  <br>
+
+* An Empirical Study of Graph Contrastive Learning [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
+
+  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
+  
+  Advances in Neural Information Processing Systems	 (<strong>NeurIPS</strong>), 2021
   
   <br>
 
