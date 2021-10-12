@@ -215,7 +215,7 @@ subtitle = ""
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
-  Computers & Security (<strong>COSE</strong>), 2019
+  Computers & Security, 2019
   
   <br>
 
