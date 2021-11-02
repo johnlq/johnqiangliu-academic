@@ -91,47 +91,47 @@ subtitle = ""
 
   Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
   
-  Advances in Neural Information Processing Systems	 (<strong>NeurIPS</strong>), 2021
+  Advances in Neural Information Processing Systems	 (NeurIPS), 2021
   
   <br>
 
-* Mining Cross Features for Financial Credit Risk Assessment [[arXiv](https://arxiv.org/abs/2102.12036)]
+* Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
   <br>
 
-* Deep Active Learning for Text Classification with Diverse Interpretations
+* Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
 
   <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
   <br>
 
-* Relation-aware Heterogeneous Graph for User Profiling
+* Relation-aware Heterogeneous Graph for User Profiling [[paper](https://dl.acm.org/doi/10.1145/3459637.3482170)] [[arXiv](https://arxiv.org/abs/2110.07181)]
 
   Qilong Yan, Yufeng Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
   <br>
 
-* Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/2101.03654)]
+* Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction [[paper](https://dl.acm.org/doi/10.1145/3459637.3482088)] [[arXiv](https://arxiv.org/abs/2101.03654)] [[code](https://github.com/CRIPAC-DIG/DESTINE)]
 
   Yichen Xu, Yanqiao Zhu, Feng Yu, <strong>Qiang Liu</strong> and Shu Wu
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2021
+  ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
   <br>
 
-* Mining Latent Structures for Multimedia Recommendation [[arXiv](https://arxiv.org/abs/2104.09036)]
+* Mining Latent Structures for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3474085.3475259)] [[arXiv](https://arxiv.org/abs/2104.09036)] [[code](https://github.com/CRIPAC-DIG/LATTICE)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
   
-  ACM International Conference on Multimedia (<strong>MM</strong>), 2021
+  ACM International Conference on Multimedia (MM), 2021
   
   <br>
 
@@ -139,7 +139,7 @@ subtitle = ""
 
   Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
   
-  The Web Conference (<strong>WWW</strong>), 2021
+  The Web Conference (WWW), 2021
   
   <br>
 
@@ -147,7 +147,7 @@ subtitle = ""
 
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  The Web Conference (<strong>WWW</strong>), 2021
+  The Web Conference (WWW), 2021
   
   <br>
 
@@ -155,7 +155,7 @@ subtitle = ""
 
   Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2021
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021
   
   <br>
   
@@ -167,7 +167,7 @@ subtitle = ""
 
   Feng Yu, Zhaocheng Liu, <strong>Qiang Liu</strong>, Haoli Zhang, Shu Wu and Liang Wang
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2020
+  ACM International Conference on Information and Knowledge Management (CIKM), 2020
   
   <br>
 
@@ -175,7 +175,7 @@ subtitle = ""
 
   Feng Yu, Yanqiao Zhu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
-  International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2020
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020
   
   <br>
 
@@ -183,7 +183,7 @@ subtitle = ""
 
   Shu Wu, Feng Yu, Xueli Yu, <strong>Qiang Liu</strong>, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
   
-  International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2020
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020
   
   <br>
 
@@ -199,7 +199,7 @@ subtitle = ""
 
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
-  IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2020
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
   
   <br>
 
@@ -207,7 +207,7 @@ subtitle = ""
 
   Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2019
+  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
   
@@ -223,7 +223,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
-  ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2018
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2018
   
   <br>
   
@@ -235,7 +235,7 @@ subtitle = ""
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
-  International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2017
+  International Joint Conference on Artificial Intelligence (IJCAI), 2017
   
   <br>
 
@@ -243,7 +243,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2017
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2017
   
   <br>
 
@@ -251,7 +251,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2017
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2017
   
   <br>
 
@@ -259,7 +259,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu, Diyi Wang, Zhaokang Li and Liang Wang
   
-  IEEE International Conference on Data Mining (<strong>ICDM</strong>), 2016
+  IEEE International Conference on Data Mining (ICDM), 2016
   
   <br>
 
@@ -267,7 +267,7 @@ subtitle = ""
 
   Feng Yu*, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
   
-  International ACM SIGIR conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2016
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
   <br>
 
@@ -275,7 +275,7 @@ subtitle = ""
 
   Shu Wu*, <strong>Qiang Liu</strong>*, Liang Wang and Tieniu Tan
   
-  IEEE Transactions on Knowledge and Data Engineering (<strong>IEEE TKDE</strong>), 2016
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
   
   <br>
 
@@ -283,7 +283,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  AAAI Conference on Artificial Intelligence (AAAI>), 2016
   
   <br>
 
@@ -291,7 +291,7 @@ subtitle = ""
 
   Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
   
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  AAAI Conference on Artificial Intelligence (AAAI), 2016
   
   <br>
 
@@ -299,7 +299,7 @@ subtitle = ""
 
    Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
   
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2016
+  AAAI Conference on Artificial Intelligence (AAAI), 2016
   
   <br>
 
@@ -307,7 +307,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2015
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
@@ -315,7 +315,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
-  ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2015
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
@@ -323,6 +323,6 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2015
+  AAAI Conference on Artificial Intelligence (AAAI), 2015
  
  
