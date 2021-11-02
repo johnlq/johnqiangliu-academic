@@ -127,6 +127,14 @@ subtitle = ""
   
   <br>
 
+* Simplifying Graph Convolutional Networks as Matrix Factorization [[paper](https://link.springer.com/chapter/10.1007/978-3-030-85896-4_3)] [[arXiv](https://arxiv.org/abs/2007.09036)]
+
+  <strong>Qiang Liu</strong>, Haoli Zhang, Zhaocheng Liu
+  
+  Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data, 2021
+  
+  <br>
+
 * Mining Latent Structures for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3474085.3475259)] [[arXiv](https://arxiv.org/abs/2104.09036)] [[code](https://github.com/CRIPAC-DIG/LATTICE)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
