@@ -135,7 +135,7 @@ subtitle = ""
   
   <br>
 
-* Simplifying Graph Convolutional Networks as Matrix Factorization [[paper](https://link.springer.com/chapter/10.1007/978-3-030-85896-4_3)] [[arXiv](https://arxiv.org/abs/2007.09036)]
+* Simplifying Graph Convolutional Networks as Matrix Factorization [[paper](https://link.springer.com/chapter/10.1007/978-3-030-85896-4_3)] [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
 
   <strong>Qiang Liu</strong>, Haoli Zhang, Zhaocheng Liu
   
