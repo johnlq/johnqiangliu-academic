@@ -283,7 +283,7 @@ subtitle = ""
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
-  AAAI Conference on Artificial Intelligence (AAAI>), 2016
+  AAAI Conference on Artificial Intelligence (AAAI), 2016
   
   <br>
 
