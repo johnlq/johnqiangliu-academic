@@ -135,14 +135,6 @@ subtitle = ""
   
   <br>
 
-* Simplifying Graph Convolutional Networks as Matrix Factorization [[paper](https://link.springer.com/chapter/10.1007/978-3-030-85896-4_3)] [[arXiv](https://arxiv.org/abs/2007.09036)] [[code](https://github.com/johnlq/UCMF)]
-
-  <strong>Qiang Liu</strong>, Haoli Zhang, Zhaocheng Liu
-  
-  Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data, 2021
-  
-  <br>
-
 * STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
   Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
