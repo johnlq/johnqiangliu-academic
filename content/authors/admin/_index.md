@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, data mining, recommender systems and AutoML.
+bio: My research interests include Data Mining, Recommender Systems, Text Mining, Knowledge Graph and Graph Representation Learning.
 
 interests:
-- Machine Learning
 - Data Mining
 - Recommender Systems
 - Text Mining
+- Knowledge Graph
+- Graph Representation Learning
 
 education:
   courses:
@@ -61,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I’m an Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on mining knowledge from data and text, as well as incorporating knowledge into deep models.
+I’m an Assistant Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on data mining, recommender systems, text mining, knowledge graph and graph representation learning.
 
 Before that, I was a Postdoctoral Researcher at Tsinghua University. I was also a R&D Director at RealAI, where I led the machine learning team to work on AutoML and Explainable AI, for delivering products on FinTech. I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
