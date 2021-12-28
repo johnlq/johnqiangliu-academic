@@ -87,7 +87,7 @@ subtitle = ""
   
   <br>
 
-* An Empirical Study of Graph Contrastive Learning [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
+* An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
 
   Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
   
