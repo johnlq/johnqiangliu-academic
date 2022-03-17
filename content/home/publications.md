@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSelected Publications (*: Equal Contribution, #: Corresponding Author):
+  &nbsp&nbsp&nbsp&nbspSelected Publications (*: Equal Contribution, #: Corresponding Author):
   
   <br>
   
