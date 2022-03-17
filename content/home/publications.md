@@ -69,24 +69,10 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(*: Equal Contribution, #: Corresponding Author)
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSelected Publications (*: Equal Contribution, #: Corresponding Author):
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Preprints</strong>
-  
-  <br>
-
-* Deep Graph Structure Learning for Robust Representations: A Survey [[arXiv](https://arxiv.org/abs/2103.03036)]
-
-  Yanqiao Zhu, Weizhi Xu, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  <br>
-  
-  <strong>2021</strong>
-  
-  <br>
-
 * An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
 
   Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
