@@ -89,30 +89,6 @@ subtitle = ""
   
   <br>
 
-* Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
-
-  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2021
-  
-  <br>
-
-* Relation-aware Heterogeneous Graph for User Profiling [[paper](https://dl.acm.org/doi/10.1145/3459637.3482170)] [[arXiv](https://arxiv.org/abs/2110.07181)]
-
-  Qilong Yan, Yufeng Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2021
-  
-  <br>
-
-* Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction [[paper](https://dl.acm.org/doi/10.1145/3459637.3482088)] [[arXiv](https://arxiv.org/abs/2101.03654)] [[code](https://github.com/CRIPAC-DIG/DESTINE)]
-
-  Yichen Xu, Yanqiao Zhu, Feng Yu, <strong>Qiang Liu</strong> and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2021
-  
-  <br>
-
 * Mining Latent Structures for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3474085.3475259)] [[arXiv](https://arxiv.org/abs/2104.09036)] [[code](https://github.com/CRIPAC-DIG/LATTICE)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
@@ -137,50 +113,6 @@ subtitle = ""
   
   <br>
 
-* Disentangled Item Representation for Recommender Systems [[paper](https://dl.acm.org/doi/abs/10.1145/3445811)] [[arXiv](https://arxiv.org/abs/2008.07178)]
-
-  Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
-  
-  ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021
-  
-  <br>
-  
-  <strong>2018-2020</strong>
-  
-  <br>
-
-* Deep Interaction Machine: A Simple but Effective Model for High-order Feature Interactions [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412077)]
-
-  Feng Yu, Zhaocheng Liu, <strong>Qiang Liu</strong>, Haoli Zhang, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2020
-  
-  <br>
-
-* TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [[paper](https://dl.acm.org/doi/10.1145/3397271.3401319)] [[arXiv](https://arxiv.org/abs/2005.02844)] [[code](https://github.com/johnlq/TAGNN)]
-
-  Feng Yu, Yanqiao Zhu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020
-  
-  <br>
-
-* TFNet: Multi-Semantic Feature Interaction for CTR Prediction [[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401304)] [[arXiv](https://arxiv.org/abs/2006.15939)]
-
-  Shu Wu, Feng Yu, Xueli Yu, <strong>Qiang Liu</strong>, Liang Wang, Tieniu Tan, Jie Shao and Fan Huang
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2020
-  
-  <br>
-
-* Deep Graph Contrastive Representation Learning [[arXiv](https://arxiv.org/abs/2006.04131)] [[code](https://github.com/johnlq/GRACE)]
-
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ICML Workshop on Graph Representation Learning and Beyond (GRL+@ICML), 2020
-  
-  <br>
-
 * MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
 
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
@@ -196,24 +128,12 @@ subtitle = ""
   ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
-  
-* Attention-based convolutional approach for misinformation identification from massive and noisy microblog posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security, 2019
-  
-  <br>
 
 * Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2018
-  
-  <br>
-  
-  <strong>2015-2017</strong>
   
   <br>
   
@@ -268,22 +188,6 @@ subtitle = ""
 * Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (AAAI), 2016
-  
-  <br>
-
-* SAPE: A system for situation-aware public security evaluation [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11901)]
-
-  Shu Wu, <strong>Qiang Liu</strong>, Ping Bai, Liang Wang and Tieniu Tan
-  
-  AAAI Conference on Artificial Intelligence (AAAI), 2016
-  
-  <br>
-
-* Information credibility evaluation on social media [[paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11902/12313)] [[arXiv](https://arxiv.org/abs/1609.09226)]
-
-   Shu Wu, <strong>Qiang Liu</strong>, Yong Liu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
   
