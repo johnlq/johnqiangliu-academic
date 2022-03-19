@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbspSelected Publications (*: Equal Contribution, #: Corresponding Author):
+  &nbsp&nbsp&nbsp&nbspSelected Publications (# Corresponding Author):
   
   <br>
   
@@ -110,22 +110,6 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
-  
-  <br>
-
-* MV-RNN: A multi-view recurrent neural network for sequential recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/johnlq/MV-RNN)]
-
-  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
-  
-  <br>
-
-* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
-
-  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
 
@@ -171,17 +155,9 @@ subtitle = ""
 
 * A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)] [[code](https://github.com/johnlq/DREAM)]
 
-  Feng Yu*, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
-  
-  <br>
-
-* Contextual operation for recommender systems [[paper](https://ieeexplore.ieee.org/document/7464889)]
-
-  Shu Wu*, <strong>Qiang Liu</strong>*, Liang Wang and Tieniu Tan
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
   
   <br>
 
@@ -190,14 +166,6 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
-  
-  <br>
-
-* Collaborative prediction for multi-entity interaction with hierarchical representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
-
-  <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
