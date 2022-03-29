@@ -72,14 +72,6 @@ subtitle = ""
   &nbsp&nbsp&nbsp&nbspSelected Publications (# Corresponding Author):
   
   <br>
-  
-* An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/GraphCL/PyGCL)]
-
-  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
-  
-  Advances in Neural Information Processing Systems	 (NeurIPS), 2021
-  
-  <br>
 
 * Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
