@@ -99,7 +99,7 @@ subtitle = ""
 
 * Graph Contrastive Learning with Adaptive Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449802)] [[arXiv](https://arxiv.org/abs/2010.14945)] [[code](https://github.com/CRIPAC-DIG/GCA)]
 
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu# and Liang Wang
   
   The Web Conference (WWW), 2021
   
@@ -107,7 +107,7 @@ subtitle = ""
 
 * Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu# and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2018
   
