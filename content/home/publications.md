@@ -73,6 +73,14 @@ subtitle = ""
   
   <br>
 
+* Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)] [[arXiv](https://arxiv.org/abs/2201.06885)] [[code](https://github.com/CRIPAC-DIG/GET)]
+
+  Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu# and Liang Wang
+  
+  The Web Conference (WWW), 2022
+  
+  <br>
+
 * Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
@@ -105,7 +113,15 @@ subtitle = ""
   
   <br>
 
-* Mining significant microblogs for misinformation identification: an attention-based approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
+* MV-RNN: A Multi-View Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)]
+
+  Qiang Cui, Shu Wu#, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+
+* Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu# and Liang Wang
   
@@ -113,7 +129,7 @@ subtitle = ""
   
   <br>
   
-* A convolutional approach for misinformation identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
+* A Convolutional Approach for Misinformation Identification [[paper](https://www.ijcai.org/Proceedings/2017/545)]
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -121,7 +137,7 @@ subtitle = ""
   
   <br>
 
-* DeepStyle: Learning user preferences for visual recommendation [[paper](https://dl.acm.org/doi/10.1145/3077136.3080658)] [[arXiv](https://arxiv.org/abs/1911.04229)]
+* DeepStyle: Learning User Preferences for Visual Recommendation [[paper](https://dl.acm.org/doi/10.1145/3077136.3080658)] [[arXiv](https://arxiv.org/abs/1911.04229)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -129,7 +145,7 @@ subtitle = ""
   
   <br>
 
-* Multi-behavioral sequential prediction with recurrent log-bilinear model [[paper](https://ieeexplore.ieee.org/document/7837622)] [[arXiv](https://arxiv.org/abs/1608.07102)]
+* Multi-behavioral Sequential Prediction with Recurrent Log-bilinear Model [[paper](https://ieeexplore.ieee.org/document/7837622)] [[arXiv](https://arxiv.org/abs/1608.07102)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -137,7 +153,7 @@ subtitle = ""
   
   <br>
 
-* Context-aware sequential recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)] [[arXiv](https://arxiv.org/abs/1609.05787)]
+* Context-aware Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)] [[arXiv](https://arxiv.org/abs/1609.05787)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Diyi Wang, Zhaokang Li and Liang Wang
   
@@ -145,7 +161,7 @@ subtitle = ""
   
   <br>
 
-* A dynamic recurrent model for next basket recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
+* A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -153,7 +169,7 @@ subtitle = ""
   
   <br>
 
-* Predicting the next location: A recurrent model with spatial and temporal contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
+* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -161,7 +177,7 @@ subtitle = ""
   
   <br>
 
-* COT: Contextual operating tensor for context-aware recommender systems [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9347)]
+* COT: Contextual Operating Tensor for Context-aware Recommender Systems [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9347)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
