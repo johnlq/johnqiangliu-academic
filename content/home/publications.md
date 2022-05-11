@@ -81,6 +81,14 @@ subtitle = ""
   
   <br>
 
+* An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/PyGCL/PyGCL)]
+
+  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu#
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2021
+  
+  <br>
+
 * Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
@@ -118,6 +126,14 @@ subtitle = ""
   Qiang Cui, Shu Wu#, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+  
+* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan#
+  
+  Computers & Security, 2019
   
   <br>
 
@@ -174,6 +190,22 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
+  
+  <br>
+
+* A Convolutional Click Prediction Model [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806603)]
+
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
+  
+  <br>
+
+* Collaborative Prediction for Multi-entity Interaction with Hierarchical Representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
+
+  <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
