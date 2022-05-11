@@ -97,6 +97,14 @@ subtitle = ""
   
   <br>
 
+* Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
+
+  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu#
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2021
+  
+  <br>
+
 * Mining Latent Structures for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3474085.3475259)] [[arXiv](https://arxiv.org/abs/2104.09036)] [[code](https://github.com/CRIPAC-DIG/LATTICE)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
