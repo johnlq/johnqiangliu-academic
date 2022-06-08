@@ -81,14 +81,6 @@ subtitle = ""
   
   <br>
 
-* Dynamic Graph Neural Networks for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/9714053)] [[arXiv](https://arxiv.org/abs/2104.07368)]
-
-  Mengqi Zhang, Shu Wu#, Xueli Yu, <strong>Qiang Liu</strong> and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022
-  
-  <br>
-
 * RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
 
   <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu#, Zhen Zhang#, Xiangnan Yue, Hong Jin and Liang Wang
