@@ -6,7 +6,7 @@ title: Qiang Liu
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
