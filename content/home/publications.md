@@ -75,7 +75,7 @@ subtitle = ""
 
 * Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)] [[arXiv](https://arxiv.org/abs/2201.06885)] [[code](https://github.com/CRIPAC-DIG/GET)]
 
-  Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu# and Liang Wang
+  Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2022
   
@@ -83,7 +83,7 @@ subtitle = ""
 
 * RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
 
-  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu#, Zhen Zhang#, Xiangnan Yue, Hong Jin and Liang Wang
+  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022
   
@@ -91,7 +91,7 @@ subtitle = ""
 
 * An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/PyGCL/PyGCL)]
 
-  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu#
+  Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
   
   Advances in Neural Information Processing Systems (NeurIPS), 2021
   
@@ -107,7 +107,7 @@ subtitle = ""
 
 * Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
 
-  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu#
+  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
   
   ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
@@ -131,7 +131,7 @@ subtitle = ""
 
 * Graph Contrastive Learning with Adaptive Augmentation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449802)] [[arXiv](https://arxiv.org/abs/2010.14945)] [[code](https://github.com/CRIPAC-DIG/GCA)]
 
-  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu# and Liang Wang
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
   
@@ -139,7 +139,7 @@ subtitle = ""
 
 * MV-RNN: A Multi-View Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)]
 
-  Qiang Cui, Shu Wu#, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
+  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
   
@@ -147,7 +147,7 @@ subtitle = ""
   
 * Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
 
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan#
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   Computers & Security, 2019
   
@@ -155,7 +155,7 @@ subtitle = ""
 
 * Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu# and Liang Wang
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2018
   
