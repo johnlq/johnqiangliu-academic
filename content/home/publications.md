@@ -73,6 +73,14 @@ subtitle = ""
   
   <br>
 
+* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
+
+  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
+  
+  <br>
+
 * Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)] [[arXiv](https://arxiv.org/abs/2201.06885)] [[code](https://github.com/CRIPAC-DIG/GET)]
 
   Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
