@@ -72,6 +72,14 @@ subtitle = ""
   &nbsp&nbsp&nbsp&nbspSelected Publications (# Corresponding Author):
   
   <br>
+  
+* GraphDIVE: Graph Classifcation by Mixture of Diverse Experts [[paper]([https://www.ijcai.org/Proceedings/2017/545](https://www.ijcai.org/proceedings/2022/0289.pdf))]
+
+ Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022
+  
+  <br>
 
 * Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
 
