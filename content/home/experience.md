@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Institute of Automation, Chinese Academy of Sciences (CASIA)"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2021-10-01"
+  date_start = "2022-07-01"
   date_end = ""
   description = """"""
 
