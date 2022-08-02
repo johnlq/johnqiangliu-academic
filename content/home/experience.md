@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2021-03-04"
-  date_end = "2021-10-01"
+  date_end = "2022-06-30"
   description = """"""
 
 [[experience]]
