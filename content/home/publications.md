@@ -75,7 +75,7 @@ subtitle = ""
   
 * GraphDIVE: Graph Classifcation by Mixture of Diverse Experts [[paper]([https://www.ijcai.org/Proceedings/2017/545](https://www.ijcai.org/proceedings/2022/0289.pdf))]
 
- Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International Joint Conference on Artificial Intelligence (IJCAI), 2022
   
