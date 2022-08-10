@@ -73,7 +73,7 @@ subtitle = ""
   
   <br>
   
-* GraphDIVE: Graph Classifcation by Mixture of Diverse Experts [[paper]([https://www.ijcai.org/Proceedings/2017/545](https://www.ijcai.org/proceedings/2022/0289.pdf))]
+* GraphDIVE: Graph Classifcation by Mixture of Diverse Experts [[paper](https://www.ijcai.org/proceedings/2022/0289.pdf)]
 
   Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -158,6 +158,14 @@ subtitle = ""
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)] [[code](https://github.com/qncsn2016/C-.A2S1F.E-.)]
+
+  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
   
