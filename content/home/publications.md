@@ -87,7 +87,7 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
-  
+   
   <br>
 
 * Dynamic Graph Neural Networks for Sequential Recommendation
