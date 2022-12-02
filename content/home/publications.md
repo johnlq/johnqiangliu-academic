@@ -72,12 +72,30 @@ subtitle = ""
   &nbsp&nbsp&nbsp&nbspSelected Publications (# Corresponding Author):
   
   <br>
-  
-* GraphDIVE: Graph Classifcation by Mixture of Diverse Experts [[paper](https://www.ijcai.org/proceedings/2022/0289.pdf)]
 
-  Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+* Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation
+ [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
+
+  Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
   
-  International Joint Conference on Artificial Intelligence (IJCAI), 2022
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
+  
+  <br>
+
+* RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
+
+  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
+  
+  <br>
+
+* Dynamic Graph Neural Networks for Sequential Recommendation
+ [[paper](https://ieeexplore.ieee.org/document/9714053)] [[code](https://github.com/ZM7/DGSR)]
+
+  Mengqi Zhang, Shu Wu, Xueli Yu, <strong>Qiang Liu</strong> and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
   
   <br>
 
@@ -97,14 +115,6 @@ subtitle = ""
   
   <br>
 
-* RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
-
-  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2022
-  
-  <br>
-
 * An Empirical Study of Graph Contrastive Learning [[paper](https://openreview.net/forum?id=UuUbIYnHKO)] [[arXiv](https://arxiv.org/abs/2109.01116)] [[code](https://github.com/PyGCL/PyGCL)]
 
   Yanqiao Zhu, Yichen Xu, <strong>Qiang Liu</strong> and Shu Wu
@@ -116,14 +126,6 @@ subtitle = ""
 * Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2021
-  
-  <br>
-
-* Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
-
-  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
   
   ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
@@ -150,30 +152,6 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
-  
-  <br>
-
-* MV-RNN: A Multi-View Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/8534409)]
-
-  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
-  
-  <br>
-
-* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)] [[code](https://github.com/qncsn2016/C-.A2S1F.E-.)]
-
-  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2019
-  
-  <br>
-  
-* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security, 2019
   
   <br>
 
@@ -230,22 +208,6 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
-  
-  <br>
-
-* A Convolutional Click Prediction Model [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806603)]
-
-  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2015
-  
-  <br>
-
-* Collaborative Prediction for Multi-entity Interaction with Hierarchical Representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
-
-  <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
