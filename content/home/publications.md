@@ -99,6 +99,30 @@ subtitle = ""
   
   <br>
 
+* MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning
+
+  Yuwei Xia, Mengqi Zhang, <strong>Qiang Liu</strong>#, Shu Wu and Xiao-Yu Zhang
+  
+  Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022
+  
+  <br>
+
+* Deep Stable Representation Learning on Electronic Health Records [[arXiv](https://arxiv.org/abs/2209.01321)]
+
+  Yingtao Luo, Zhaocheng Liu and <strong>Qiang Liu</strong>#
+  
+  IEEE International Conference on Data Mining (ICDM), 2022
+  
+  <br>
+  
+* GraphDIVE: Graph Classification by Mixture of Diverse Experts [[paper](https://www.ijcai.org/Proceedings/2022/0289)] [[arXiv](https://arxiv.org/abs/2103.15622)]
+
+  Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022
+  
+  <br>
+
 * Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
 
   Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
@@ -152,6 +176,22 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
+  
+  <br>
+
+* MV-RNN: A Multi-view Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8534409/)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/cuiqiang1990/MV-RNN)]
+
+  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
+
+  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
 
