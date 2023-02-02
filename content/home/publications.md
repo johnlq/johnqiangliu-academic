@@ -159,7 +159,7 @@ subtitle = ""
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
   
-  ACM International Conference on Multimedia (MM), 2021
+  ACM International Conference on Multimedia (ACMMM), 2021
   
   <br>
 
