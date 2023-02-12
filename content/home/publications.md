@@ -115,7 +115,7 @@ subtitle = ""
   
   <br>
 
-* The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection [[paper](https://ieeexplore.ieee.org/document/10027689)]
+* The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection [[paper](https://ieeexplore.ieee.org/document/10027689)] [[arXiv](https://arxiv.org/abs/2210.12384)]
 
   Zhixun Li, Dingshuo Chen, <strong>Qiang Liu</strong> and Shu Wu
   
