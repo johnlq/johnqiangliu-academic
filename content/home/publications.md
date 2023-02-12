@@ -99,7 +99,7 @@ subtitle = ""
   
   <br>
 
-* MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning
+* MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning [[paper](https://aclanthology.org/2022.emnlp-main.487/)]
 
   Yuwei Xia, Mengqi Zhang, <strong>Qiang Liu</strong>#, Shu Wu and Xiao-Yu Zhang
   
@@ -107,9 +107,17 @@ subtitle = ""
   
   <br>
 
-* Deep Stable Representation Learning on Electronic Health Records [[arXiv](https://arxiv.org/abs/2209.01321)]
+* Deep Stable Representation Learning on Electronic Health Records [[paper](https://ieeexplore.ieee.org/document/10027709)] [[arXiv](https://arxiv.org/abs/2209.01321)]
 
   Yingtao Luo, Zhaocheng Liu and <strong>Qiang Liu</strong>#
+  
+  IEEE International Conference on Data Mining (ICDM), 2022
+  
+  <br>
+
+* The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection [[paper](https://ieeexplore.ieee.org/document/10027689)]
+
+  Zhixun Li, Dingshuo Chen, <strong>Qiang Liu</strong> and Shu Wu
   
   IEEE International Conference on Data Mining (ICDM), 2022
   
