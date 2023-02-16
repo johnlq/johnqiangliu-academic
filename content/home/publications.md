@@ -99,6 +99,15 @@ subtitle = ""
   
   <br>
 
+* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network
+ [[paper](https://ieeexplore.ieee.org/abstract/document/9925994)] [[arXiv](https://arxiv.org/abs/2104.02962)] [[code](https://github.com/CRIPAC-DIG/DyGCN)]
+
+  Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
+  
+  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Accepted
+  
+  <br>
+
 * MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning [[paper](https://aclanthology.org/2022.emnlp-main.487/)]
 
   Yuwei Xia, Mengqi Zhang, <strong>Qiang Liu</strong>#, Shu Wu and Xiao-Yu Zhang
