@@ -73,8 +73,7 @@ subtitle = ""
   
   <br>
 
-* Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation
- [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
+* Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
   
@@ -90,21 +89,35 @@ subtitle = ""
    
   <br>
 
-* Dynamic Graph Neural Networks for Sequential Recommendation
- [[paper](https://ieeexplore.ieee.org/document/9714053)] [[code](https://github.com/ZM7/DGSR)]
-
-  Mengqi Zhang, Shu Wu, Xueli Yu, <strong>Qiang Liu</strong> and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
-  
-  <br>
-
-* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network
- [[paper](https://ieeexplore.ieee.org/abstract/document/9925994)] [[arXiv](https://arxiv.org/abs/2104.02962)] [[code](https://github.com/CRIPAC-DIG/DyGCN)]
+* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network [[paper](https://ieeexplore.ieee.org/abstract/document/9925994)] [[arXiv](https://arxiv.org/abs/2104.02962)] [[code](https://github.com/CRIPAC-DIG/DyGCN)]
 
   Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
   
   IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Accepted
+  
+  <br>
+
+* Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation
+
+  Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2023
+  
+  <br>
+
+* Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning
+
+  Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong>#, Shu Wu and Liang Wang
+  
+  The Web Conference (WWW), 2023
+  
+  <br>
+
+* Dynamic Graph Neural Networks for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/9714053)] [[code](https://github.com/ZM7/DGSR)]
+
+  Mengqi Zhang, Shu Wu, Xueli Yu, <strong>Qiang Liu</strong> and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023
   
   <br>
 
