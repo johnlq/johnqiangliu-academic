@@ -19,9 +19,9 @@ bio: My research interests include Data Mining, Recommender Systems, Text Mining
 interests:
 - Data Mining
 - Recommender Systems
-- Text Mining
-- Knowledge Graph
-- Graph Representation Learning
+- Graph Neural Networks
+- Fake News Detection
+- AI for Science
 
 education:
   courses:
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on data mining, recommender systems, text mining, knowledge graph and graph representation learning. Before that, I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
+I'm an Associate Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on data mining, recommender systems, graph neural networks, fake news detection and AI for science. Before that, I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
