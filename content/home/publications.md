@@ -89,6 +89,14 @@ subtitle = ""
    
   <br>
 
+* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design
+
+  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
+  
+  International Conference on Machine Learning (ICML), 2023
+  
+  <br>
+
 * Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation
 
   Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
