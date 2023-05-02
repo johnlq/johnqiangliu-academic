@@ -89,14 +89,6 @@ subtitle = ""
    
   <br>
 
-* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network [[paper](https://ieeexplore.ieee.org/abstract/document/9925994)] [[arXiv](https://arxiv.org/abs/2104.02962)] [[code](https://github.com/CRIPAC-DIG/DyGCN)]
-
-  Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
-  
-  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Accepted
-  
-  <br>
-
 * Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation
 
   Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
@@ -105,7 +97,23 @@ subtitle = ""
   
   <br>
 
-* Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning
+* Counterfactual Debiasing for Fact Verification
+
+  Weizhi Xu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2023
+  
+  <br>
+
+* Learning Latent Relations for Temporal Knowledge Graph Reasoning
+
+  Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2023
+  
+  <br>
+
+* Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning [[paper](https://dl.acm.org/doi/10.1145/3543507.3583242)]
 
   Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong>#, Shu Wu and Liang Wang
   
@@ -150,14 +158,6 @@ subtitle = ""
   Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International Joint Conference on Artificial Intelligence (IJCAI), 2022
-  
-  <br>
-
-* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
-
-  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
   
   <br>
 
