@@ -81,14 +81,6 @@ subtitle = ""
   
   <br>
 
-* RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
-
-  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
-   
-  <br>
-
 * DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design
 
   Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
@@ -119,6 +111,14 @@ subtitle = ""
   
   Annual Meeting of the Association for Computational Linguistics (ACL), 2023
   
+  <br>
+
+* RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring [[paper](https://ieeexplore.ieee.org/document/9785714)] [[arXiv](https://arxiv.org/abs/2206.00568)]
+
+  <strong>Qiang Liu</strong>, Yingtao Luo, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023
+   
   <br>
 
 * Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning [[paper](https://dl.acm.org/doi/10.1145/3543507.3583242)]
