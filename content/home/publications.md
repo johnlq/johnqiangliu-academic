@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbspSelected Publications (# Corresponding Author):
+  &nbsp&nbsp&nbsp&nbspSelected Publications (* Co-first Author, # Corresponding Author):
   
   <br>
 
@@ -78,6 +78,14 @@ subtitle = ""
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
+  
+  <br>
+
+* Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations [[arXiv](https://arxiv.org/abs/2106.01078)]
+
+  Yingtao Luo, <strong>Qiang Liu</strong>*#, Yuntian Chen, Wenbo Hu, Tian Tian and Jun Zhu
+  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
   
   <br>
 
@@ -99,7 +107,7 @@ subtitle = ""
 
 * Counterfactual Debiasing for Fact Verification
 
-  Weizhi Xu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Weizhi Xu, <strong>Qiang Liu</strong>*, Shu Wu and Liang Wang
   
   Annual Meeting of the Association for Computational Linguistics (ACL), 2023
   
@@ -275,7 +283,7 @@ subtitle = ""
 
 * A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
 
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
