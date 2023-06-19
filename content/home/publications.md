@@ -217,7 +217,7 @@ subtitle = ""
   
   <br>
   
-* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper] https://www.sciencedirect.com/science/article/abs/pii/S0167404818303997)]
+* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404818303997)]
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -225,7 +225,7 @@ subtitle = ""
   
   <br>
 
-* Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
+* Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)]
 
   <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
@@ -257,7 +257,7 @@ subtitle = ""
   
   <br>
 
-* Context-aware Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)] [[arXiv](https://arxiv.org/abs/1609.05787)]
+* Context-aware Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/7837948)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Diyi Wang, Zhaokang Li and Liang Wang
   
