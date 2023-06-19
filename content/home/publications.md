@@ -129,7 +129,7 @@ subtitle = ""
   
   <br>
 
-* Dynamic Graph Neural Networks for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/9714053)] [[code](https://github.com/ZM7/DGSR)]
+* Dynamic Graph Neural Networks for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/document/9714053)] [[arXiv](https://arxiv.org/abs/2104.07368)] [[code](https://github.com/ZM7/DGSR)]
 
   Mengqi Zhang, Shu Wu, Xueli Yu, <strong>Qiang Liu</strong> and Liang Wang
   
@@ -216,6 +216,14 @@ subtitle = ""
   The Web Conference (WWW), 2021
   
   <br>
+  
+* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper] https://www.sciencedirect.com/science/article/abs/pii/S0167404818303997)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  Computers & Security, 2019
+  
+  <br>
 
 * Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)] [[arXiv](https://arxiv.org/abs/1706.06314)]
 
@@ -233,7 +241,7 @@ subtitle = ""
   
   <br>
 
-* DeepStyle: Learning User Preferences for Visual Recommendation [[paper](https://dl.acm.org/doi/10.1145/3077136.3080658)] [[arXiv](https://arxiv.org/abs/1911.04229)]
+* DeepStyle: Learning User Preferences for Visual Recommendation [[paper](https://dl.acm.org/doi/10.1145/3077136.3080658)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -241,7 +249,7 @@ subtitle = ""
   
   <br>
 
-* Multi-behavioral Sequential Prediction with Recurrent Log-bilinear Model [[paper](https://ieeexplore.ieee.org/document/7837622)] [[arXiv](https://arxiv.org/abs/1608.07102)]
+* Multi-behavioral Sequential Prediction with Recurrent Log-bilinear Model [[paper](https://ieeexplore.ieee.org/document/7837622)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -262,6 +270,14 @@ subtitle = ""
   Feng Yu, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
+  
+  <br>
+
+* Contextual Operation for Recommender Systems [[paper](https://ieeexplore.ieee.org/abstract/document/7464889/)]
+
+  Shu Wu, <strong>Qiang Liu</strong>*, Liang Wang and Tieniu Tan
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
   
   <br>
 
