@@ -89,14 +89,6 @@ subtitle = ""
   
   <br>
 
-* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design
-
-  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
-  
-  International Conference on Machine Learning (ICML), 2023
-  
-  <br>
-
 * Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation
 
   Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
@@ -222,22 +214,6 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
-  
-  <br>
-
-* MV-RNN: A Multi-view Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8534409/)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/cuiqiang1990/MV-RNN)]
-
-  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
-  
-  <br>
-
-* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
-
-  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
 
