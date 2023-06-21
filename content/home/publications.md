@@ -152,20 +152,20 @@ subtitle = ""
   IEEE International Conference on Data Mining (ICDM), 2022
   
   <br>
-
-* The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection [[paper](https://ieeexplore.ieee.org/document/10027689)] [[arXiv](https://arxiv.org/abs/2210.12384)]
-
-  Zhixun Li, Dingshuo Chen, <strong>Qiang Liu</strong> and Shu Wu
-  
-  IEEE International Conference on Data Mining (ICDM), 2022
-  
-  <br>
   
 * GraphDIVE: Graph Classification by Mixture of Diverse Experts [[paper](https://www.ijcai.org/Proceedings/2022/0289)] [[arXiv](https://arxiv.org/abs/2103.15622)]
 
   Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International Joint Conference on Artificial Intelligence (IJCAI), 2022
+  
+  <br>
+
+* Bias mitigation for evidence-aware fake news detection by causal intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
+
+  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
   
   <br>
 
