@@ -161,7 +161,7 @@ subtitle = ""
   
   <br>
 
-* Bias mitigation for evidence-aware fake news detection by causal intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
+* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
 
   Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
   
