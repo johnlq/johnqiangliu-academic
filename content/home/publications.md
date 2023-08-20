@@ -69,7 +69,7 @@ subtitle = ""
   
   <br>
   
-  &nbsp&nbsp&nbsp&nbspSelected Publications (* Co-first Author, # Corresponding Author):
+  &nbsp&nbsp&nbsp&nbspSelected Publications:
   
   <br>
 
@@ -81,15 +81,15 @@ subtitle = ""
   
   <br>
 
-* Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations [[arXiv](https://arxiv.org/abs/2106.01078)]
+* Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations [[paper](https://dl.acm.org/doi/10.1145/3580305.3599466)] [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-  Yingtao Luo, <strong>Qiang Liu</strong>*#, Yuntian Chen, Wenbo Hu, Tian Tian and Jun Zhu
+  Yingtao Luo, <strong>Qiang Liu</strong> (co-first and corresponding author), Yuntian Chen, Wenbo Hu, Tian Tian and Jun Zhu
   
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
   
   <br>
 
-* Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation
+* Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3539618.3591729)] [[arXiv](https://arxiv.org/abs/2306.14179)]
 
   Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -97,15 +97,15 @@ subtitle = ""
   
   <br>
 
-* Counterfactual Debiasing for Fact Verification
+* Counterfactual Debiasing for Fact Verification [[paper](https://aclanthology.org/2023.acl-long.374/)]
 
-  Weizhi Xu, <strong>Qiang Liu</strong>*, Shu Wu and Liang Wang
+  Weizhi Xu, <strong>Qiang Liu</strong> (co-first author), Shu Wu and Liang Wang
   
   Annual Meeting of the Association for Computational Linguistics (ACL), 2023
   
   <br>
 
-* Learning Latent Relations for Temporal Knowledge Graph Reasoning
+* Learning Latent Relations for Temporal Knowledge Graph Reasoning [[paper](https://aclanthology.org/2023.acl-long.705/)]
 
   Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -121,9 +121,9 @@ subtitle = ""
    
   <br>
 
-* Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning [[paper](https://dl.acm.org/doi/10.1145/3543507.3583242)]
+* Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning [[paper](https://dl.acm.org/doi/10.1145/3543507.3583242)] [[code](https://github.com/CRIPAC-DIG/HGLS)]
 
-  Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong>#, Shu Wu and Liang Wang
+  Mengqi Zhang, Yuwei Xia, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2023
   
@@ -137,35 +137,19 @@ subtitle = ""
   
   <br>
 
-* MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning [[paper](https://aclanthology.org/2022.emnlp-main.487/)]
+* MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning [[paper](https://aclanthology.org/2022.emnlp-main.487/)] [[arXiv](https://arxiv.org/abs/2302.00893)]
 
-  Yuwei Xia, Mengqi Zhang, <strong>Qiang Liu</strong>#, Shu Wu and Xiao-Yu Zhang
+  Yuwei Xia, Mengqi Zhang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Xiao-Yu Zhang
   
   Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022
   
   <br>
 
-* Deep Stable Representation Learning on Electronic Health Records [[paper](https://ieeexplore.ieee.org/document/10027709)] [[arXiv](https://arxiv.org/abs/2209.01321)]
+* Deep Stable Representation Learning on Electronic Health Records [[paper](https://ieeexplore.ieee.org/document/10027709)] [[arXiv](https://arxiv.org/abs/2209.01321)] [[code](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding)]
 
-  Yingtao Luo, Zhaocheng Liu and <strong>Qiang Liu</strong>#
+  Yingtao Luo, Zhaocheng Liu and <strong>Qiang Liu</strong> (corresponding author)
   
   IEEE International Conference on Data Mining (ICDM), 2022
-  
-  <br>
-  
-* GraphDIVE: Graph Classification by Mixture of Diverse Experts [[paper](https://www.ijcai.org/Proceedings/2022/0289)] [[arXiv](https://arxiv.org/abs/2103.15622)]
-
-  Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2022
-  
-  <br>
-
-* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
-
-  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
   
   <br>
 
@@ -195,7 +179,7 @@ subtitle = ""
 
 * Mining Latent Structures for Multimedia Recommendation [[paper](https://dl.acm.org/doi/10.1145/3474085.3475259)] [[arXiv](https://arxiv.org/abs/2104.09036)] [[code](https://github.com/CRIPAC-DIG/LATTICE)]
 
-  Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>#, Shu Wu, Shuhui Wang and Liang Wang
+  Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Shuhui Wang and Liang Wang
   
   ACM International Conference on Multimedia (ACMMM), 2021
   
@@ -203,7 +187,7 @@ subtitle = ""
 
 * STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
-  Yingtao Luo, <strong>Qiang Liu</strong># and Zhaocheng Liu
+  Yingtao Luo, <strong>Qiang Liu</strong> (corresponding author) and Zhaocheng Liu
   
   The Web Conference (WWW), 2021
   
@@ -214,14 +198,6 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
-  
-  <br>
-  
-* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security, 2019
   
   <br>
 
@@ -267,17 +243,9 @@ subtitle = ""
 
 * A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
 
-  Feng Yu, <strong>Qiang Liu</strong>*, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, <strong>Qiang Liu</strong> (co-first author), Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
-  
-  <br>
-
-* Contextual Operation for Recommender Systems [[paper](https://ieeexplore.ieee.org/abstract/document/7464889/)]
-
-  Shu Wu, <strong>Qiang Liu</strong>*, Liang Wang and Tieniu Tan
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
   
   <br>
 
