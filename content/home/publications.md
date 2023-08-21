@@ -249,7 +249,7 @@ subtitle = ""
   
   <br>
 
-* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11900/11583)]
+* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts [[paper](https://aaai.org/papers/971-predicting-the-next-location-a-recurrent-model-with-spatial-and-temporal-contexts/)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -257,7 +257,7 @@ subtitle = ""
   
   <br>
 
-* COT: Contextual Operating Tensor for Context-aware Recommender Systems [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9347)]
+* COT: Contextual Operating Tensor for Context-aware Recommender Systems [[paper](https://aaai.org/papers/158-cot-contextual-operating-tensor-for-context-aware-recommender-systems/)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
