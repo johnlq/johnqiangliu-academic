@@ -73,11 +73,27 @@ subtitle = ""
   
   <br>
 
+* GSLB: The Graph Structure Learning Benchmark [[paper](https://openreview.net/forum?id=xT3i5GS3zU)] [[arXiv](https://arxiv.org/abs/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)]
+
+  Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen, Yingtao Luo, Xiangxin Zhou, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Liang Wang and Jeffrey Xu Yu
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2023
+  
+  <br>
+
+* Uncovering Neural Scaling Law in Molecular Representation Learning [[paper](https://openreview.net/forum?id=Ys8RmfF9w1)] [[arXiv](https://arxiv.org/abs/2309.15123)] [[code](https://github.com/Data-reindeer/MolScaling)]
+
+  Dingshuo Chen, Yanqiao Zhu, Jieyu Zhang, Yuanqi Du, Zhixun Li, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2023
+  
+  <br>
+
 * Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
   
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Accepted
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023
   
   <br>
 
@@ -150,6 +166,22 @@ subtitle = ""
   Yingtao Luo, Zhaocheng Liu and <strong>Qiang Liu</strong> (corresponding author)
   
   IEEE International Conference on Data Mining (ICDM), 2022
+  
+  <br>
+
+* The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10027689)] [[arXiv](https://arxiv.org/pdf/2210.12384)]
+
+  Zhixun Li, Dingshuo Chen, <strong>Qiang Liu</strong> and Shu Wu
+  
+  IEEE International Conference on Data Mining (ICDM), 2022
+  
+  <br>
+
+* GraphDIVE: Graph Classification by Mixture of Diverse Experts [[paper](https://www.ijcai.org/proceedings/2022/0289.pdf)] [[arXiv](https://arxiv.org/abs/2103.15622)]
+
+  Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022
   
   <br>
 
@@ -249,11 +281,27 @@ subtitle = ""
   
   <br>
 
+* Contextual Operation for Recommender Systems [[paper](https://ieeexplore.ieee.org/abstract/document/7464889)]
+
+  Shu Wu, <strong>Qiang Liu</strong> (co-first author), Liang Wang and Tieniu Tan
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
+  
+  <br>
+
 * Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts [[paper](https://aaai.org/papers/971-predicting-the-next-location-a-recurrent-model-with-spatial-and-temporal-contexts/)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
+  
+  <br>
+
+* A Convolutional Click Prediction Model [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806603)]
+
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
   <br>
 
