@@ -89,7 +89,7 @@ subtitle = ""
   
   <br>
 
-* Noise-Robust Semi-Supervised Learning for Distantly Supervised Relation Extraction [[paper](https://aclanthology.org/2022.emnlp-main.487/)] [[arXiv](https://arxiv.org/abs/2302.00893)]
+* Noise-Robust Semi-Supervised Learning for Distantly Supervised Relation Extraction [[paper](https://aclanthology.org/2022.emnlp-main.487/)]
 
   Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
