@@ -70,6 +70,86 @@ subtitle = ""
   <br>
   
   &nbsp&nbsp&nbsp&nbspSelected Publications:
+
+  <br>
+
+* Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks
+
+  Junfei Wu, Weizhi Xu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+
+  <br>
+
+* Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction
+
+  Liping Wang, <strong>Qiang Liu</strong>, Mengqi Zhang, Yaxuan Hu, Shu Wu and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+
+  <br>
+
+* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network
+
+  Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
+  
+  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), accepted
+
+  <br>
+
+* Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection
+
+  Xiang Tao, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
+  
+  The Web Conference (WWW), 2024
+
+  <br>
+
+* CAMLO: Cross-Attentive Multi-View Network for Long-Term Origin-Destination Flow Prediction
+
+  Liang Wang, Hao Fu, Shu Wu, <strong>Qiang Liu</strong> (corresponding author), Xuelei Tan, Fangsheng Huang, Mengdi Zhang and Wei Wu
+  
+  SIAM Conference on Data Mining (SDM), 2024
+
+  <br>
+
+* Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization
+
+  Huanhuan Ma, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
+
+  <br>
+
+* Rethinking Graph Masked Autoencoders through Alignment and Uniformity
+
+  Liang Wang, Xiang Tao, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  AAAI Conference on Artificial Intelligence (AAAI), 2024
+
+  <br>
+
+* Text-Guided Molecule Generation with Diffusion Language Model
+
+  Haisong Gong, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  AAAI Conference on Artificial Intelligence (AAAI), 2024
+
+  <br>
+
+* Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables
+
+  Haisong Gong, Weizhi Xu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
+  
+  AAAI Conference on Artificial Intelligence (AAAI), 2024
+
+  <br>
+
+* Molecular Contrastive Pretraining with Collaborative Featurizations
+
+  Yanqiao Zhu, Dingshuo Chen, Yuanqi Du, Yingze Wang, <strong>Qiang Liu</strong> and Shu Wu
+  
+  Journal of Chemical Information and Modeling (JCIM), 2024
   
   <br>
 
