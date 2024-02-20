@@ -54,13 +54,4 @@ date_format = "Jan 2006"
   date_end = "2021-03-04"
   description = """"""
 
-[[experience]]
-  title = "Research Intern"
-  company = "Microsoft Research Asia (MSRA)"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "2016-05-01"
-  date_end = "2016-10-15"
-  description = """"""
-
 +++
