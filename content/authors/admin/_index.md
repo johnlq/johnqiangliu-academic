@@ -61,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, I mainly focus on data mining, content security, recommender systems and graph neural networks. Before that, I received my PhD degree from CASIA, where I mainly focused on recommender systems and text mining.
+Qiang Liu is an Associate Professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, he mainly focuses on data mining, content security, recommender systems and graph neural networks. Before that, he received his PhD degree from CASIA, where he mainly focused on recommender systems and text mining.
