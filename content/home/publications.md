@@ -329,7 +329,7 @@ subtitle = ""
   
   <br>
 
-* STAN: Spatio-Temporal Attention Network for Next Point-of-Interest Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
+* STAN: Spatio-Temporal Attention Network for Next Location Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)] [[arXiv](https://arxiv.org/abs/2102.04095)] [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
 
   Yingtao Luo, <strong>Qiang Liu</strong> (corresponding author) and Zhaocheng Liu
   
