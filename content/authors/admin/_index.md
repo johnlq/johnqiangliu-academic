@@ -19,9 +19,8 @@ bio: My research interests include Data Mining, Content Security, Recommender Sy
 interests:
 - Data Mining
 - Trustworthy AI
-- Large Language Models
+- LLM Safety
 - Misinformation Detection
-- AI for Science
 
 education:
   courses:
@@ -62,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Qiang Liu is an associate professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, he mainly focuses on trustworthy AI, large language models and AI for science. Before that, he received his PhD degree from CASIA, where he mainly focused on data mining and misinformation detection.
+Qiang Liu is an associate professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, he mainly focuses on trustworthy AI, LLM safety and misinformation detection. Before that, he received his PhD degree from CASIA, where he mainly focused on data mining and misinformation detection.
