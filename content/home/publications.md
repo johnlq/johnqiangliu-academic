@@ -169,14 +169,6 @@ subtitle = ""
   
   <br>
 
-* Noise-Robust Semi-Supervised Learning for Distantly Supervised Relation Extraction [[paper](https://aclanthology.org/2023.findings-emnlp.876/)]
-
-  Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
-  
-  Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023
-  
-  <br>
-
 * Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
@@ -190,14 +182,6 @@ subtitle = ""
   Yingtao Luo, <strong>Qiang Liu</strong> (co-first and corresponding author), Yuntian Chen, Wenbo Hu, Tian Tian and Jun Zhu
   
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
-  
-  <br>
-
-* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[paper](https://openreview.net/forum?id=9qy9DizMlr)] [[code](https://github.com/bytedance/DecompDiff)]
-
-  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
-  
-  International Conference on Machine Learning (ICML), 2023
   
   <br>
 
@@ -281,14 +265,6 @@ subtitle = ""
   
   <br>
 
-* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
-
-  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
-  
-  <br>
-
 * Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)] [[arXiv](https://arxiv.org/abs/2201.06885)] [[code](https://github.com/CRIPAC-DIG/GET)]
 
   Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
@@ -308,14 +284,6 @@ subtitle = ""
 * Mining Cross Features for Financial Credit Risk Assessment [[paper](https://dl.acm.org/doi/10.1145/3459637.3482371)] [[arXiv](https://arxiv.org/abs/2102.12036)]
 
   <strong>Qiang Liu</strong>, Zhaocheng Liu, Haoli Zhang, Yuntian Chen and Jun Zhu
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2021
-  
-  <br>
-
-* Deep Active Learning for Text Classification with Diverse Interpretations [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482080)] [[arXiv](https://arxiv.org/abs/2108.10687)]
-
-  <strong>Qiang Liu</strong>, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang and Shu Wu
   
   ACM International Conference on Information and Knowledge Management (CIKM), 2021
   
@@ -350,6 +318,14 @@ subtitle = ""
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+
+* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
+
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  
+  Computers & Security (COSE), 2019
   
   <br>
 
@@ -393,22 +369,6 @@ subtitle = ""
   
   <br>
 
-* A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/10.1145/2911451.2914683)]
-
-  Feng Yu, <strong>Qiang Liu</strong> (co-first author), Shu Wu, Liang Wang and Tieniu Tan
-  
-  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
-  
-  <br>
-
-* Contextual Operation for Recommender Systems [[paper](https://ieeexplore.ieee.org/abstract/document/7464889)]
-
-  Shu Wu, <strong>Qiang Liu</strong> (co-first author), Liang Wang and Tieniu Tan
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
-  
-  <br>
-
 * Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts [[paper](https://aaai.org/papers/971-predicting-the-next-location-a-recurrent-model-with-spatial-and-temporal-contexts/)]
 
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
@@ -420,14 +380,6 @@ subtitle = ""
 * Collaborative Prediction for Multi-entity Interaction with Hierarchical Representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  ACM International Conference on Information and Knowledge Management (CIKM), 2015
-  
-  <br>
-
-* A Convolutional Click Prediction Model [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806603)]
-
-  <strong>Qiang Liu</strong> (co-first author), Feng Yu, Shu Wu and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
