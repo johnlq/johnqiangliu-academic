@@ -169,11 +169,11 @@ subtitle = ""
   
   <br>
 
-* Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/document/9950351)] [[arXiv](https://arxiv.org/abs/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
+* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[paper](https://proceedings.mlr.press/v202/guan23a.html)] [[arXiv](https://arxiv.org/abs/2403.07902)] [[code](https://github.com/bytedance/DecompDiff)]
 
-  Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
+  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
   
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023
+  International Conference on Machine Learning (ICML), 2023
   
   <br>
 
