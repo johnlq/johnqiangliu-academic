@@ -313,14 +313,6 @@ subtitle = ""
   
   <br>
 
-* MV-RNN: A Multi-view Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8534409/)]
-
-  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
-  
-  <br>
-
 * Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
 
   Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
@@ -374,6 +366,14 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
+  
+  <br>
+
+* Contextual Operation for Recommender Systems [[paper](https://ieeexplore.ieee.org/abstract/document/7464889/)]
+
+  Shu Wu, <strong>Qiang Liu</strong> (co-first author), Liang Wang and Tieniu Tan
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2016
   
   <br>
 
