@@ -312,14 +312,6 @@ subtitle = ""
   The Web Conference (WWW), 2021
   
   <br>
-  
-* Attention-based Convolutional Approach for Misinformation Identification from Massive and Noisy Microblog Posts [[paper](https://www.sciencedirect.com/science/article/pii/S0167404818303997)]
-
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
-  
-  Computers & Security (COSE), 2019
-  
-  <br>
 
 * Mining Significant Microblogs for Misinformation Identification: An Attention-based Approach [[paper](https://dl.acm.org/doi/10.1145/3173458)]
 
@@ -366,6 +358,14 @@ subtitle = ""
   <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   AAAI Conference on Artificial Intelligence (AAAI), 2016
+  
+  <br>
+  
+* A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/2911451.2914683)]
+
+  Feng Yu, <strong>Qiang Liu</strong> (co-first author), Shu Wu, Liang Wang and Tieniu Tan
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
   <br>
 
