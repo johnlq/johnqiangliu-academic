@@ -73,27 +73,19 @@ subtitle = ""
 
   <br>
 
-* Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks
+* Out-of-distribution Evidence-aware Fake News Detection via Dual Adversarial Debiasing [[paper](https://ieeexplore.ieee.org/document/10508127)] [[arXiv](https://arxiv.org/abs/2304.12888)]
+
+  <strong>Qiang Liu</strong>, Junfei Wu, Shu Wu and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+
+  <br>
+
+* Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://ieeexplore.ieee.org/document/10354385)] [[arXiv](https://arxiv.org/abs/2210.05498)] [[code](https://github.com/CRIPAC-DIG/GETRAL)]
 
   Junfei Wu, Weizhi Xu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
-
-  <br>
-
-* Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction
-
-  Liping Wang, <strong>Qiang Liu</strong>, Mengqi Zhang, Yaxuan Hu, Shu Wu and Liang Wang
-  
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
-
-  <br>
-
-* DyGCN: Efficient Dynamic Graph Embedding with Graph Convolutional Network
-
-  Zeyu Cui, Zekun Li, Shu Wu, Xiaoyu Zhang, <strong>Qiang Liu</strong>, Liang Wang and Mengmeng Ai
-  
-  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), accepted
 
   <br>
 
@@ -105,7 +97,7 @@ subtitle = ""
 
   <br>
 
-* CAMLO: Cross-Attentive Multi-View Network for Long-Term Origin-Destination Flow Prediction
+* CAMLO: Cross-Attentive Multi-View Network for Long-Term Origin-Destination Flow Prediction [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.53)]
 
   Liang Wang, Hao Fu, Shu Wu, <strong>Qiang Liu</strong> (corresponding author), Xuelei Tan, Fangsheng Huang, Mengdi Zhang and Wei Wu
   
@@ -113,15 +105,15 @@ subtitle = ""
 
   <br>
 
-* Interpretable Multimodal Out-of-context Detection with Soft Logic Regularization
+* Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction [[paper](https://ieeexplore.ieee.org/document/10236511)]
 
-  Huanhuan Ma, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Liping Wang, <strong>Qiang Liu</strong>, Mengqi Zhang, Yaxuan Hu, Shu Wu and Liang Wang
   
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
 
   <br>
 
-* Rethinking Graph Masked Autoencoders through Alignment and Uniformity
+* Rethinking Graph Masked Autoencoders through Alignment and Uniformity [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26325/26097)] [[arXiv](https://www.arxiv.org/abs/2402.07225)] [[code](https://github.com/CRIPAC-DIG/AUG-MAE)]
 
   Liang Wang, Xiang Tao, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -129,7 +121,7 @@ subtitle = ""
 
   <br>
 
-* Text-Guided Molecule Generation with Diffusion Language Model
+* Text-Guided Molecule Generation with Diffusion Language Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27761/27563)] [[arXiv](https://arxiv.org/abs/2402.13040)] [[code](https://github.com/CRIPAC-DIG/tgm-dlm)]
 
   Haisong Gong, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -137,20 +129,12 @@ subtitle = ""
 
   <br>
 
-* Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables
+* Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27760/27561)] [[arXiv](https://arxiv.org/abs/2402.13028)]
 
   Haisong Gong, Weizhi Xu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
   AAAI Conference on Artificial Intelligence (AAAI), 2024
 
-  <br>
-
-* Molecular Contrastive Pretraining with Collaborative Featurizations
-
-  Yanqiao Zhu, Dingshuo Chen, Yuanqi Du, Yingze Wang, <strong>Qiang Liu</strong> and Shu Wu
-  
-  Journal of Chemical Information and Modeling (JCIM), 2024
-  
   <br>
 
 * GSLB: The Graph Structure Learning Benchmark [[paper](https://openreview.net/forum?id=xT3i5GS3zU)] [[arXiv](https://arxiv.org/abs/2310.05174)] [[code](https://github.com/GSL-Benchmark/GSLB)]
