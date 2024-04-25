@@ -113,7 +113,7 @@ subtitle = ""
 
   <br>
 
-* Rethinking Graph Masked Autoencoders through Alignment and Uniformity [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26325/26097)] [[arXiv](https://www.arxiv.org/abs/2402.07225)] [[code](https://github.com/CRIPAC-DIG/AUG-MAE)]
+* Rethinking Graph Masked Autoencoders through Alignment and Uniformity [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29479)] [[arXiv](https://www.arxiv.org/abs/2402.07225)] [[code](https://github.com/CRIPAC-DIG/AUG-MAE)]
 
   Liang Wang, Xiang Tao, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -121,7 +121,7 @@ subtitle = ""
 
   <br>
 
-* Text-Guided Molecule Generation with Diffusion Language Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27761/27563)] [[arXiv](https://arxiv.org/abs/2402.13040)] [[code](https://github.com/CRIPAC-DIG/tgm-dlm)]
+* Text-Guided Molecule Generation with Diffusion Language Model [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27761)] [[arXiv](https://arxiv.org/abs/2402.13040)] [[code](https://github.com/CRIPAC-DIG/tgm-dlm)]
 
   Haisong Gong, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
@@ -129,7 +129,7 @@ subtitle = ""
 
   <br>
 
-* Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27760/27561)] [[arXiv](https://arxiv.org/abs/2402.13028)]
+* Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27760)] [[arXiv](https://arxiv.org/abs/2402.13028)]
 
   Haisong Gong, Weizhi Xu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
   
