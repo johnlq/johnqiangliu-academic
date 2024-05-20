@@ -89,6 +89,54 @@ subtitle = ""
 
   <br>
 
+* DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization
+
+  Xin Sun, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu, Zilei Wang and Liang Wang
+  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+  
+  <br>
+
+* Rethinking Fair Graph Neural Networks from Re-balancing
+
+  Zhixun Li, Yushun Dong, <strong>Qiang Liu</strong> and Jeffrey Xu Yu
+  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+  
+  <br>
+
+* Stealthy Attack on Large Language Model based Recommendation [[arXiv](https://arxiv.org/abs/2402.14836)]
+
+  Jinghao Zhang, Yuting Liu, <strong>Qiang Liu</strong>, Shu Wu, Guibing Guo and Liang Wang
+  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+  
+  <br>
+
+* Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[arXiv](https://arxiv.org/abs/2402.11622)]
+
+  Junfei Wu, <strong>Qiang Liu</strong>, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang and Tieniu Tan
+  
+  Findings of the Association for Computational Linguistics: ACL, 2024
+  
+  <br>
+
+* Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning [[arXiv](https://arxiv.org/abs/2402.14382)]
+
+  Yuwei Xia, Ding Wang, <strong>Qiang Liu</strong>, Liang Wang, Shu Wu and Xiao-Yu Zhang
+  
+  Findings of the Association for Computational Linguistics: ACL, 2024
+  
+  <br>
+
+* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification [[arXiv](https://arxiv.org/abs/2310.09754)]
+
+  Huanhuan Ma, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  Findings of the Association for Computational Linguistics: ACL, 2024
+  
+  <br>
+
 * Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection
 
   Xiang Tao, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
@@ -109,7 +157,7 @@ subtitle = ""
 
   Liping Wang, <strong>Qiang Liu</strong>, Mengqi Zhang, Yaxuan Hu, Shu Wu and Liang Wang
   
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024
 
   <br>
 
@@ -153,11 +201,11 @@ subtitle = ""
   
   <br>
 
-* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[paper](https://proceedings.mlr.press/v202/guan23a.html)] [[arXiv](https://arxiv.org/abs/2403.07902)] [[code](https://github.com/bytedance/DecompDiff)]
+* Noise-Robust Semi-Supervised Learning for Distantly Supervised Relation Extraction [[paper](https://aclanthology.org/2023.findings-emnlp.876/)]
 
-  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
+  Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
-  International Conference on Machine Learning (ICML), 2023
+  Findings of the Association for Computational Linguistics: EMNLP, 2023
   
   <br>
 
