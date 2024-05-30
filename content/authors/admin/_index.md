@@ -62,3 +62,5 @@ user_groups:
 ---
 
 Qiang Liu is an associate professor at Institute of Automation, Chinese Academy of Sciences (CASIA). Currently, he mainly focuses on LLM safety, misinformation detection and AI for science. Before that, he received his PhD degree from CASIA, where he mainly focused on data mining.
+
+Chinese homepage: [[[paper](https://people.ucas.edu.cn/~qiangliu)](https://people.ucas.edu.cn/~qiangliu)]
