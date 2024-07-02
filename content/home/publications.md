@@ -81,6 +81,14 @@ subtitle = ""
 
   <br>
 
+* Bi-Level Graph Structure Learning for Next POI Recommendation [[paper](https://ieeexplore.ieee.org/document/10521856)]
+
+  Liang Wang, Shu Wu, <strong>Qiang Liu</strong>, Yanqiao Zhu, Xiang Tao, Mengdi Zhang and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+
+  <br>
+
 * Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://ieeexplore.ieee.org/document/10354385)] [[arXiv](https://arxiv.org/abs/2210.05498)] [[code](https://github.com/CRIPAC-DIG/GETRAL)]
 
   Junfei Wu, Weizhi Xu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
@@ -105,7 +113,7 @@ subtitle = ""
   
   <br>
 
-* Stealthy Attack on Large Language Model based Recommendation [[arXiv](https://arxiv.org/abs/2402.14836)]
+* Stealthy Attack on Large Language Model based Recommendation [[arXiv](https://arxiv.org/abs/2402.14836)] [[code](https://github.com/CRIPAC-DIG/RecTextAttack)]
 
   Jinghao Zhang, Yuting Liu, <strong>Qiang Liu</strong>, Shu Wu, Guibing Guo and Liang Wang
   
@@ -113,31 +121,31 @@ subtitle = ""
   
   <br>
 
-* Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[arXiv](https://arxiv.org/abs/2402.11622)]
+* Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[arXiv](https://arxiv.org/abs/2402.11622)] [[code](https://github.com/CRIPAC-DIG/LogicCheckGPT)]
 
   Junfei Wu, <strong>Qiang Liu</strong>, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang and Tieniu Tan
   
-  Findings of the Association for Computational Linguistics: ACL, 2024
+  Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
   
   <br>
 
-* Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning [[arXiv](https://arxiv.org/abs/2402.14382)]
+* Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting [[arXiv](https://arxiv.org/abs/2402.14382)]
 
-  Yuwei Xia, Ding Wang, <strong>Qiang Liu</strong>, Liang Wang, Shu Wu and Xiao-Yu Zhang
+  Yuwei Xia, Ding Wang, <strong>Qiang Liu</strong> (corresponding author), Liang Wang, Shu Wu and Xiao-Yu Zhang
   
-  Findings of the Association for Computational Linguistics: ACL, 2024
+  Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
   
   <br>
 
-* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification [[arXiv](https://arxiv.org/abs/2310.09754)]
+* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification [[arXiv](https://arxiv.org/abs/2310.09754)] [[code](https://github.com/dependentsign/EX-FEVER)]
 
   Huanhuan Ma, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
-  Findings of the Association for Computational Linguistics: ACL, 2024
+  Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
   
   <br>
 
-* Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection
+* Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645478)] [[arXiv](https://arxiv.org/abs/2404.16076)]
 
   Xiang Tao, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
   
@@ -151,6 +159,14 @@ subtitle = ""
   
   SIAM Conference on Data Mining (SDM), 2024
 
+  <br>
+
+* Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization [[paper](https://ieeexplore.ieee.org/document/10447706)] [[arXiv](https://arxiv.org/abs/2406.04756)]
+
+  Huanhuan Ma, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
+  
   <br>
 
 * Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction [[paper](https://ieeexplore.ieee.org/document/10236511)]
@@ -205,7 +221,7 @@ subtitle = ""
 
   Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
-  Findings of the Association for Computational Linguistics: EMNLP, 2023
+  Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023
   
   <br>
 
