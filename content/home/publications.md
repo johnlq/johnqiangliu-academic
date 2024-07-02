@@ -221,7 +221,7 @@ subtitle = ""
 
   Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
-  Conference on Empirical Methods in Natural Language Processing (EMNLP Findings), 2023
+  Conference on Empirical Methods in Natural Language Processing Findings (EMNLP Findings), 2023
   
   <br>
 
