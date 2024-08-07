@@ -97,15 +97,23 @@ subtitle = ""
 
   <br>
 
+* Modality-Balanced Learning for Multimedia Recommendation
+
+  Jinghao Zhang, Guofan Liu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
+  
+  ACM International Conference on Multimedia (MM), 2024
+  
+  <br>
+
 * DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization
 
-  Xin Sun, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu, Zilei Wang and Liang Wang
+  Xin Sun, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
   
   <br>
 
-* Rethinking Fair Graph Neural Networks from Re-balancing
+* Rethinking Fair Graph Neural Networks from Re-balancing [[arXiv](https://arxiv.org/abs/2407.11624)] [[code](https://github.com/ZhixunLEE/FairGB)]
 
   Zhixun Li, Yushun Dong, <strong>Qiang Liu</strong> and Jeffrey Xu Yu
   
@@ -137,14 +145,6 @@ subtitle = ""
   
   <br>
 
-* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification [[arXiv](https://arxiv.org/abs/2310.09754)] [[code](https://github.com/dependentsign/EX-FEVER)]
-
-  Huanhuan Ma, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
-  
-  <br>
-
 * Semantic Evolvement Enhanced Graph Autoencoder for Rumor Detection [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645478)] [[arXiv](https://arxiv.org/abs/2404.16076)]
 
   Xiang Tao, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
@@ -159,14 +159,6 @@ subtitle = ""
   
   SIAM Conference on Data Mining (SDM), 2024
 
-  <br>
-
-* Interpretable Multimodal Out-of-Context Detection with Soft Logic Regularization [[paper](https://ieeexplore.ieee.org/document/10447706)] [[arXiv](https://arxiv.org/abs/2406.04756)]
-
-  Huanhuan Ma, Jinghao Zhang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
-  
-  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
-  
   <br>
 
 * Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction [[paper](https://ieeexplore.ieee.org/document/10236511)]
@@ -209,11 +201,11 @@ subtitle = ""
   
   <br>
 
-* Uncovering Neural Scaling Law in Molecular Representation Learning [[paper](https://openreview.net/forum?id=Ys8RmfF9w1)] [[arXiv](https://arxiv.org/abs/2309.15123)] [[code](https://github.com/Data-reindeer/MolScaling)]
+* Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9950351/)] [[arXiv](https://arxiv.org/pdf/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
 
-  Dingshuo Chen, Yanqiao Zhu, Jieyu Zhang, Yuanqi Du, Zhixun Li, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
   
-  Advances in Neural Information Processing Systems (NeurIPS), 2023
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023
   
   <br>
 
@@ -341,7 +333,7 @@ subtitle = ""
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Shuhui Wang and Liang Wang
   
-  ACM International Conference on Multimedia (ACMMM), 2021
+  ACM International Conference on Multimedia (MM), 2021
   
   <br>
 
@@ -411,7 +403,7 @@ subtitle = ""
   
 * A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/2911451.2914683)]
 
-  <strong>Qiang Liu</strong> (co-first author), Feng Yu, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
