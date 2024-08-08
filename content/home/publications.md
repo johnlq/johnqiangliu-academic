@@ -201,6 +201,14 @@ subtitle = ""
   
   <br>
 
+* Uncovering Neural Scaling Law in Molecular Representation Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/052e22cfdd344c79634f7ec76fa03e22-Abstract-Datasets_and_Benchmarks.html)] [[arXiv](https://arxiv.org/abs/2309.15123)] [[code](https://github.com/Data-reindeer/MolScaling)]
+
+  Dingshuo Chen, Yanqiao Zhu, Jieyu Zhang, Yuanqi Du, Zhixun Li, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2023
+  
+  <br>
+
 * Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/9950351/)] [[arXiv](https://arxiv.org/pdf/2111.00678)] [[code](https://github.com/CRIPAC-DIG/MICRO)]
 
   Jinghao Zhang, Yanqiao Zhu, <strong>Qiang Liu</strong>, Mengqi Zhang, Shu Wu and Liang Wang
@@ -222,6 +230,14 @@ subtitle = ""
   <strong>Qiang Liu</strong> (co-first and corresponding author), Yingtao Luo, Yuntian Chen, Wenbo Hu, Tian Tian and Jun Zhu
   
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+  
+  <br>
+
+* DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design [[paper](https://openreview.net/pdf?id=9qy9DizMlr)] [[arXiv](https://arxiv.org/abs/2403.07902)] [[code](https://github.com/bytedance/DecompDiff)]
+
+  Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, <strong>Qiang Liu</strong>, Liang Wang and Quanquan Gu
+  
+  International Conference on Machine Learning (ICML), 2023
   
   <br>
 
@@ -305,6 +321,14 @@ subtitle = ""
   
   <br>
 
+* Structure-Enhanced Heterogeneous Graph Contrastive Learning [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.10)]
+
+  Yanqiao Zhu, Yichen Xu, Hejie Cui, Carl Yang, <strong>Qiang Liu</strong>, Shu Wu
+  
+  SIAM International Conference on Data Mining (SDM), 2022
+  
+  <br>
+
 * Evidence-aware Fake News Detection with Graph Neural Networks [[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)] [[arXiv](https://arxiv.org/abs/2201.06885)] [[code](https://github.com/CRIPAC-DIG/GET)]
 
   Weizhi Xu, Junfei Wu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
@@ -350,6 +374,22 @@ subtitle = ""
   Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   The Web Conference (WWW), 2021
+  
+  <br>
+
+* MV-RNN: A Multi-view Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8534409/)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/cuiqiang1990/MV-RNN)]
+
+  Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2020
+  
+  <br>
+
+* Towards Accurate and Interpretable Sequential Prediction: A CNN & Attention-Based Feature Extractor [[paper](https://dl.acm.org/doi/abs/10.1145/3357384.3357887)]
+
+  Jingyi Wang, <strong>Qiang Liu</strong>, Zhaocheng Liu and Shu Wu
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2019
   
   <br>
 
