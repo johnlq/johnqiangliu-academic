@@ -97,7 +97,7 @@ subtitle = ""
 
   <br>
 
-* Modality-Balanced Learning for Multimedia Recommendation
+* Modality-Balanced Learning for Multimedia Recommendation [[arXiv](https://arxiv.org/abs/2408.06360)]
 
   Jinghao Zhang, Guofan Liu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
   
@@ -105,7 +105,7 @@ subtitle = ""
   
   <br>
 
-* DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization
+* DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization [[arXiv](https://arxiv.org/abs/2408.04400)]
 
   Xin Sun, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
@@ -129,7 +129,7 @@ subtitle = ""
   
   <br>
 
-* Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[arXiv](https://arxiv.org/abs/2402.11622)] [[code](https://github.com/CRIPAC-DIG/LogicCheckGPT)]
+* Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[paper](https://aclanthology.org/2024.findings-acl.414.pdf)] [[arXiv](https://arxiv.org/abs/2402.11622)] [[code](https://github.com/CRIPAC-DIG/LogicCheckGPT)]
 
   Junfei Wu, <strong>Qiang Liu</strong>, Ding Wang, Jinghao Zhang, Shu Wu, Liang Wang and Tieniu Tan
   
@@ -137,7 +137,7 @@ subtitle = ""
   
   <br>
 
-* Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting [[arXiv](https://arxiv.org/abs/2402.14382)]
+* Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting [[paper](https://aclanthology.org/2024.findings-acl.955/)] [[arXiv](https://arxiv.org/abs/2402.14382)]
 
   Yuwei Xia, Ding Wang, <strong>Qiang Liu</strong> (corresponding author), Liang Wang, Shu Wu and Xiao-Yu Zhang
   
@@ -318,6 +318,14 @@ subtitle = ""
   Fenyu Hu, Liping Wang, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International Joint Conference on Artificial Intelligence (IJCAI), 2022
+  
+  <br>
+
+* Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention [[paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531850)] [[code](https://github.com/CRIPAC-DIG/CF-FEND)]
+
+  Junfei Wu, <strong>Qiang Liu</strong>, Weizhi Xu and Shu Wu
+  
+  International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2022
   
   <br>
 
