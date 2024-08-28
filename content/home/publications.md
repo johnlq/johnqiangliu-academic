@@ -105,7 +105,7 @@ subtitle = ""
   
   <br>
 
-* DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization [[arXiv](https://arxiv.org/abs/2408.04400)]
+* DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization [[paper](https://dl.acm.org/doi/10.1145/3637528.3671878)] [[arXiv](https://arxiv.org/abs/2408.04400)]
 
   Xin Sun, Liang Wang, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
@@ -113,7 +113,7 @@ subtitle = ""
   
   <br>
 
-* Rethinking Fair Graph Neural Networks from Re-balancing [[arXiv](https://arxiv.org/abs/2407.11624)] [[code](https://github.com/ZhixunLEE/FairGB)]
+* Rethinking Fair Graph Neural Networks from Re-balancing [[paper](https://dl.acm.org/doi/10.1145/3637528.3671826)] [[arXiv](https://arxiv.org/abs/2407.11624)] [[code](https://github.com/ZhixunLEE/FairGB)]
 
   Zhixun Li, Yushun Dong, <strong>Qiang Liu</strong> and Jeffrey Xu Yu
   
@@ -121,7 +121,7 @@ subtitle = ""
   
   <br>
 
-* Stealthy Attack on Large Language Model based Recommendation [[arXiv](https://arxiv.org/abs/2402.14836)] [[code](https://github.com/CRIPAC-DIG/RecTextAttack)]
+* Stealthy Attack on Large Language Model based Recommendation [[paper](https://aclanthology.org/2024.acl-long.318/)] [[arXiv](https://arxiv.org/abs/2402.14836)] [[code](https://github.com/CRIPAC-DIG/RecTextAttack)]
 
   Jinghao Zhang, Yuting Liu, <strong>Qiang Liu</strong>, Shu Wu, Guibing Guo and Liang Wang
   
@@ -451,7 +451,7 @@ subtitle = ""
   
 * A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/2911451.2914683)]
 
-  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
+  <strong>Qiang Liu</strong> (co-first author), Feng Yu, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
