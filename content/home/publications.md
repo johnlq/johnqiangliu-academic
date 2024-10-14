@@ -73,19 +73,51 @@ subtitle = ""
 
   <br>
 
-* Out-of-distribution Evidence-aware Fake News Detection via Dual Adversarial Debiasing [[paper](https://ieeexplore.ieee.org/document/10508127)] [[arXiv](https://arxiv.org/abs/2304.12888)]
+* Uni-Modal Event-Agnostic Knowledge Distillation for Multimodal Fake News Detection [[paper](https://ieeexplore.ieee.org/abstract/document/10713273/)]
 
-  <strong>Qiang Liu</strong>, Junfei Wu, Shu Wu and Liang Wang
+  Guofan Liu, Jinghao Zhang, <strong>Qiang Liu</strong> (corresponding author), Junfei Wu, Shu Wu and Liang Wang
   
   IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
 
   <br>
 
-* Bi-Level Graph Structure Learning for Next POI Recommendation [[paper](https://ieeexplore.ieee.org/document/10521856)]
+* VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark [[arXiv](https://arxiv.org/abs/2403.07350)] [[code](https://github.com/VLKEB/VLKEB)]
 
-  Liang Wang, Shu Wu, <strong>Qiang Liu</strong>, Yanqiao Zhu, Xiang Tao, Mengdi Zhang and Liang Wang
+  Han Huang, Haitian Zhong, Tao Yu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Liang Wang and Tieniu Tan
   
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+  Advances in Neural Information Processing Systems (NeurIPS), 2024
+  
+  <br>
+
+* Pin-Tuning: Parameter-Efficient In-Context Tuning for Few-shot Molecular Property Prediction
+
+  Liang Wang, <strong>Qiang Liu</strong>, Shaozhen Liu, Xin Sun, Shu Wu and Liang Wang
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2024
+  
+  <br>
+
+* Beyond Efficiency: Molecular Data Pruning for Enhanced Generalization [[arXiv](https://arxiv.org/abs/2409.01081)]
+
+  Dingshuo Chen, Zhixun Li, Yuyan Ni, Guibin Zhang, Ding Wang, <strong>Qiang Liu</strong>, Shu Wu, Jeffrey Xu Yu and Liang Wang
+  
+  Advances in Neural Information Processing Systems (NeurIPS), 2024
+  
+  <br>
+
+* Knowledge Graph Enhanced Large Language Model Editing [[arXiv](https://arxiv.org/abs/2402.13593)] [[code](https://github.com/Acruxos/GLAME)]
+
+  Mengqi Zhang, Xiaotian Ye, Qiang Liu, Pengjie Ren, Shu Wu and Zhumin Chen
+  
+  Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+  
+  <br>
+
+* Out-of-distribution Evidence-aware Fake News Detection via Dual Adversarial Debiasing [[paper](https://ieeexplore.ieee.org/document/10508127)] [[arXiv](https://arxiv.org/abs/2304.12888)]
+
+  <strong>Qiang Liu</strong>, Junfei Wu, Shu Wu and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024
 
   <br>
 
@@ -93,7 +125,15 @@ subtitle = ""
 
   Junfei Wu, Weizhi Xu, <strong>Qiang Liu</strong> (corresponding author), Shu Wu and Liang Wang
   
-  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), accepted
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024
+
+  <br>
+
+* Bi-Level Graph Structure Learning for Next POI Recommendation [[paper](https://ieeexplore.ieee.org/document/10521856)]
+
+  Liang Wang, Shu Wu, <strong>Qiang Liu</strong>, Yanqiao Zhu, Xiang Tao, Mengdi Zhang and Liang Wang
+  
+  IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2024
 
   <br>
 
@@ -140,6 +180,14 @@ subtitle = ""
 * Chain-of-History Reasoning for Temporal Knowledge Graph Forecasting [[paper](https://aclanthology.org/2024.findings-acl.955/)] [[arXiv](https://arxiv.org/abs/2402.14382)]
 
   Yuwei Xia, Ding Wang, <strong>Qiang Liu</strong> (corresponding author), Liang Wang, Shu Wu and Xiao-Yu Zhang
+  
+  Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
+  
+  <br>
+
+* EX-FEVER: A Dataset for Multi-hop Explainable Fact Verification [[paper](https://aclanthology.org/2024.findings-acl.556/)] [[arXiv](https://arxiv.org/abs/2310.09754)] [[code](https://github.com/dependentsign/EX-FEVER)]
+
+  Huanhuan Ma, Weizhi Xu, Yifan Wei, Liuji Chen, Liang Wang, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
   
   Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2024
   
@@ -222,6 +270,14 @@ subtitle = ""
   Xin Sun, <strong>Qiang Liu</strong> (corresponding author), Shu Wu, Zilei Wang and Liang Wang
   
   Conference on Empirical Methods in Natural Language Processing Findings (EMNLP Findings), 2023
+  
+  <br>
+
+* Unsupervised Graph Representation Learning with Cluster-Aware Self-Training and Refining [[paper](https://dl.acm.org/doi/full/10.1145/3608480)]
+
+  Yanqiao Zhu, Yichen Xu, Feng Yu, <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2023
   
   <br>
 
@@ -385,6 +441,14 @@ subtitle = ""
   
   <br>
 
+* Disentangled Item Representation for Recommender Systems [[paper](https://dl.acm.org/doi/abs/10.1145/3445811)] [[arXiv](https://arxiv.org/abs/2008.07178)]
+
+  Zeyu Cui, Feng Yu, Shu Wu, <strong>Qiang Liu</strong> and Liang Wang
+  
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021
+  
+  <br>
+
 * MV-RNN: A Multi-view Recurrent Neural Network for Sequential Recommendation [[paper](https://ieeexplore.ieee.org/abstract/document/8534409/)] [[arXiv](https://arxiv.org/abs/1611.06668)] [[code](https://github.com/cuiqiang1990/MV-RNN)]
 
   Qiang Cui, Shu Wu, <strong>Qiang Liu</strong>, Wen Zhong and Liang Wang
@@ -451,7 +515,7 @@ subtitle = ""
   
 * A Dynamic Recurrent Model for Next Basket Recommendation [[paper](https://dl.acm.org/doi/abs/10.1145/2911451.2914683)]
 
-  <strong>Qiang Liu</strong> (co-first author), Feng Yu, Shu Wu, Liang Wang and Tieniu Tan
+  Feng Yu, <strong>Qiang Liu</strong>, Shu Wu, Liang Wang and Tieniu Tan
   
   International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR), 2016
   
@@ -468,6 +532,14 @@ subtitle = ""
 * Collaborative Prediction for Multi-entity Interaction with Hierarchical Representation [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806530)]
 
   <strong>Qiang Liu</strong>, Shu Wu and Liang Wang
+  
+  ACM International Conference on Information and Knowledge Management (CIKM), 2015
+  
+  <br>
+
+* A Convolutional Click Prediction Model [[paper](https://dl.acm.org/doi/abs/10.1145/2806416.2806603)]
+
+  <strong>Qiang Liu</strong>, Feng Yu, Shu Wu and Liang Wang
   
   ACM International Conference on Information and Knowledge Management (CIKM), 2015
   
